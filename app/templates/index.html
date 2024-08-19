@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Invigilator Scheduler</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-color: #f8f9fa;
+            padding-top: 50px;
+        }
+        .container {
+            max-width: 600px;
+        }
+        h1 {
+            margin-bottom: 30px;
+        }
+        .form-group {
+            margin-bottom: 15px;
+        }
+        button {
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="text-center">Allocation of Invigilators</h1>
+        <form action="/import" method="post" enctype="multipart/form-data">
+            <div class="form-group">
+                <label for="invigilators">Invigilators CSV:</label>
+                <input type="file" class="form-control-file" id="invigilators" name="invigilators" required>
+            </div>
+            <div class="form-group">
+                <label for="availability">Availability CSV:</label>
+                <input type="file" class="form-control-file" id="availability" name="availability" required>
+            </div>
+            <div class="form-group">
+                <label for="exam_schedule">Exam Schedule CSV:</label>
+                <input type="file" class="form-control-file" id="exam_schedule" name="exam_schedule" required>
+            </div>
+            <button type="submit" class="btn btn-primary">Upload and Process</button>
+        </form>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

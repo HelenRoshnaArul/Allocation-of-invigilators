@@ -1,0 +1,656 @@
+Date,Time,Venue,Capacity,Total Invigilators,Lead Invigilator,Special_Requirement,Special Skill Invigilators,Normal Invigilators,Backup Invigilators
+2024-05-20,AM,Chemical and Process Engineering Cluster (GR.06),1,1,Stephanie Washington,no,[],[],['Anne Mathews']
+2024-05-20,AM,Chemistry West Block SR (1.65),7,2,Lindsey Stephens,yes,['Sierra Decker'],[],['Paul Johnson']
+2024-05-20,AM,Cohen Computer Cluster A&B (1.40),68,2,Karen Nelson,no,[],['Bethany Johnson'],"['Travis Clark', 'Matthew Berry', 'Kim Jones']"
+2024-05-20,AM,Conference Gallery,90,3,Janice Barnes,no,[],"['Debra Mendoza', 'James Hoffman']","['Michael Wright', 'Gabriel Hinton', 'Kyle Floyd']"
+2024-05-20,AM,EC Stoner Cluster (6.61),13,1,Scott Mccann,no,[],[],['Tyler Williams']
+2024-05-20,AM,EC Stoner Cluster (6.68),42,1,Marisa Hall,no,[],[],"['Kayla Moore', 'Michael Harrison', 'Jack Delacruz']"
+2024-05-20,AM,Emmanuel Centre SR 01,1,1,Lisa Murphy,yes,[],[],['Kevin Cooley']
+2024-05-20,AM,Emmanuel Centre SR 02,1,1,Chelsea Rosales,yes,[],[],['Christopher Mcfarland']
+2024-05-20,AM,Emmanuel Centre SR 04,1,1,Dustin Lee,yes,[],[],['Amanda Hammond']
+2024-05-20,AM,Emmanuel Centre SR 06,1,1,Steven Garcia,yes,[],[],['Jack West']
+2024-05-20,AM,Emmanuel Centre SR 07,1,1,Amanda Hammond,yes,[],[],['Michael Wright']
+2024-05-20,AM,English SR 1 (LG.04) House 10 Cavendish Road,6,2,Cody Hopkins,yes,['Fred Wright'],[],['Kyle Floyd']
+2024-05-20,AM,English SR 2 (LG.06) House 10 Cavendish Road,2,1,Kevin Cooley,yes,[],[],['Eric Day']
+2024-05-20,AM,English SR 3 (LG.01) House 10 Cavendish Road,4,1,Adam Lopez,yes,[],[],['Margaret Smith']
+2024-05-20,AM,English SR 4 (LG.02) House 10 Cavendish Road,4,1,Thomas Thornton,yes,[],[],['Jeffrey Villarreal']
+2024-05-20,AM,English SR 7 (LG.05) House 5 Cavendish Road,3,1,Robert Garcia,yes,[],[],['John Lawson']
+2024-05-20,AM,Great Hall,155,5,Joseph Vance,no,[],"['Richard Pittman', 'Joseph Parker', 'Valerie Kane', 'Brandy Clark MD']","['Allen Sanchez', 'Jason Robbins', 'Michael Harrison']"
+2024-05-20,AM,Irene Manton South Cluster (7.90),1,1,Michael Brennan,no,[],[],['Christopher Levine']
+2024-05-20,AM,Michael Sadler SR (1.19),1,1,Jose Castaneda,yes,[],[],['Jessica Nolan']
+2024-05-20,AM,Michael Sadler SR (1.37),1,1,Angela Rangel,yes,[],[],['Kevin Salazar DDS']
+2024-05-20,AM,Michael Sadler SR (2.01),1,1,Jeremiah Marshall,yes,[],[],['Carmen Sanford']
+2024-05-20,AM,Michael Sadler SR (3.40),1,1,Arthur Tucker,yes,[],[],['Timothy Kent']
+2024-05-20,AM,Michael Sadler SR (B.49),3,1,Thomas Bennett,yes,[],[],['Jason Calhoun']
+2024-05-20,AM,Michael Sadler World Cinema Rm (B.36),7,2,Michael Wright,yes,['Erin Lopez'],[],['Mrs. Lisa Everett']
+2024-05-20,AM,Newlyn SR (GR.01),69,2,Christopher Goodwin,no,[],['April Hall'],"['Tammy Thompson', 'George Campbell', 'Michael Jones']"
+2024-05-20,AM,Psychology Cluster (1.43),17,1,Linda Moreno,no,[],[],['Raymond Hernandez']
+2024-05-20,AM,Psychology Cluster (1.45),1,1,Christopher Mcfarland,no,[],[],['Kevin Cooley']
+2024-05-20,AM,Room UG09 (Great Hall Building),87,2,Elaine Murray,no,[],['Rachel Schmidt'],"['Karen Nelson', 'Ashley Butler', 'Elizabeth Fox']"
+2024-05-20,AM,Social Sciences SR (10.05),10,3,Mark Wilson,yes,"['Nicole Martin', 'Gregory Mcclain']",[],['Brandon Castro']
+2024-05-20,AM,Social Sciences SR (10.06),8,2,Mary Hensley,yes,['Frances Nguyen'],[],['Michelle Johnson']
+2024-05-20,AM,Social Sciences SR (10.07),9,3,John Ibarra,yes,"['Hayley Murphy', 'Timothy Thompson']",[],['Brandon Vance']
+2024-05-20,AM,Social Sciences SR (12.38),11,3,Brian Hall,yes,"['Melissa Payne', 'Terry Hernandez']",[],['Andre Owens']
+2024-05-20,AM,Textiles Computer Cluster (G.34),10,3,Wayne Morgan,yes,"['Jennifer Hill', 'Randall Weiss']",[],['Elijah May']
+2024-05-20,AM,The Edge (Sports Hall 1),536,17,Tracy Maynard,no,[],"['Jennifer Holder', 'Evelyn Johnson', 'Michelle Morgan', 'Vanessa Hampton', 'Christopher Jones', 'Charles Zimmerman', 'Kimberly Reynolds', 'Laurie Schwartz', 'Leslie Cox', 'Jack Delacruz', 'Justin Davis', 'Louis Kelly', 'Debra Mills', 'Nathaniel Faulkner', 'Cindy Lopez', 'Jacob Craig']","['Janice Barnes', 'Amber Blevins', 'David Patel']"
+2024-05-20,AM,The Edge (Sports Hall 2),270,9,Melinda Bennett,no,[],"['Kathy Eaton', 'Austin Smith Jr.', 'Steven Murphy', 'Marisa Thompson', 'James Rogers', 'David Lewis', 'Matthew Evans', 'Megan Maynard']","['Chelsea Rosales', 'Jason Robbins', 'Melissa Dickerson']"
+2024-05-20,AM,Emmanuel Centre SR 03,1,1,Kathryn Smith,yes,[],[],['Paul Carroll']
+2024-05-20,AM,Social Sciences SR (10.07),1,1,Samantha Franklin,yes,[],[],['Lisa Price']
+2024-05-20,AM,Social Sciences SR (12.38),1,1,Daniel Garcia,yes,[],[],['Abigail Kim']
+2024-05-20,PM,Chemistry West Block SR (1.65),5,1,Richard Freeman,yes,[],[],['George Campbell']
+2024-05-20,PM,Chemistry West Block SR (G.75),8,2,Harry Garcia,yes,['Kristen Smith'],[],['Mark Thompson']
+2024-05-20,PM,EC Stoner Cluster (6.61),3,1,Lonnie Camacho,no,[],[],['Keith Wall']
+2024-05-20,PM,EC Stoner Cluster (6.68),8,1,Lisa Parker,no,[],[],['Tracy Schmidt']
+2024-05-20,PM,EC Stoner SR (7.79),18,6,Toni Russell,yes,"['Kathryn Moore', 'Ricky Campbell', 'Edward Yang', 'Nicholas Day', 'Joshua Garcia']",[],['Keith Shepherd']
+2024-05-20,PM,Emmanuel Centre SR 01,1,1,Johnny Hawkins,yes,[],[],['Eric Caldwell']
+2024-05-20,PM,Emmanuel Centre SR 02,1,1,Suzanne Smith,yes,[],[],['David Brooks']
+2024-05-20,PM,Emmanuel Centre SR 03,1,1,Samantha Hart,yes,[],[],['Samantha Franklin']
+2024-05-20,PM,Emmanuel Centre SR 10,8,2,Alejandro Jones,yes,['Morgan Miranda'],[],['Wayne Morgan']
+2024-05-20,PM,English SR 1 (LG.04) House 10 Cavendish Road,5,1,Linda Nelson,yes,[],[],['Mr. Cameron Knight']
+2024-05-20,PM,English SR 3 (LG.01) House 10 Cavendish Road,5,1,Charles Zimmerman,yes,[],[],['Nicole Walker']
+2024-05-20,PM,English SR 4 (LG.02) House 10 Cavendish Road,3,1,Jennifer Simpson,yes,[],[],['Travis Sullivan']
+2024-05-20,PM,Great Hall,155,5,Veronica Phillips,no,[],"['Frank Hale', 'Michael Dougherty', 'Amanda Lyons', 'Justin James']","['Gina Rollins', 'Timothy Martin', 'Tommy Monroe']"
+2024-05-20,PM,Michael Sadler SR (B.37),6,2,Amanda Navarro,yes,['Thomas Walker'],[],['Christina Armstrong']
+2024-05-20,PM,Michael Sadler SR (B.49),3,1,Ryan Stewart,yes,[],[],['Alyssa Lowe']
+2024-05-20,PM,Michael Sadler SR (LG.15),25,1,Mr. Bill Hoffman MD,no,[],[],['Lucas Jones']
+2024-05-20,PM,Michael Sadler World Cinema Rm (B.36),6,2,Willie Flores,yes,['Stephanie Ross'],[],['Miguel Barton']
+2024-05-20,PM,Newlyn SR (1.01),67,2,Michelle Stephenson,no,[],['Lisa Erickson'],"['Paula Wilson', 'Vanessa Jones', 'Wendy Jones']"
+2024-05-20,PM,Newlyn SR (GR.01),68,2,Raymond Jensen,no,[],['Ryan Barnett'],"['Christopher Wilson', 'Cindy Lopez', 'Scott Hayes']"
+2024-05-20,PM,Newlyn SR (GR.07),68,2,Dr. Shane Randall,no,[],['Cynthia Rivera'],"['Luis Robertson', 'John Mercer', 'James Mitchell']"
+2024-05-20,PM,Psychology Cluster (1.43),21,1,Kyle Floyd,no,[],[],['Jeremiah Howard']
+2024-05-20,PM,Psychology Cluster (1.45),4,1,Vanessa Jones,no,[],[],['Robert Garcia']
+2024-05-20,PM,Social Sciences SR (10.05),9,3,Shelly Wood,yes,"['Paul Ray DDS', 'Ricky Salazar']",[],['Richard Jones']
+2024-05-20,PM,Social Sciences SR (10.06),11,3,Kevin Salazar DDS,yes,"['Erin Collins', 'Julia Fuller']",[],['Harry Garcia']
+2024-05-20,PM,Social Sciences SR (10.07),9,3,Toni Burnett,yes,"['Mrs. Amanda Tran MD', 'Valerie Kane']",[],['Alicia Brown']
+2024-05-20,PM,Social Sciences SR (10.10),7,2,Carmen Castro,yes,['Jeremiah Howard'],[],['William Coleman']
+2024-05-20,PM,Textiles Computer Cluster (G.34),4,1,Nicole Marshall,yes,[],[],['Robert Espinoza']
+2024-05-20,PM,The Edge (Sports Hall 1),490,16,Lauren Banks,no,[],"['Christopher Walton', 'Dylan Wilson', 'James Jackson', 'Justin Morris', 'Jordan Marsh', 'Mark Williams', 'Vanessa Reid', 'Angel Potter', 'Jocelyn Wilson', 'Richard Knight', 'Amy Malone', 'Christy Davis', 'Robert Johnson MD', 'Amanda Thompson MD', 'Cynthia Hess']","['Richard Davis', 'Barbara White', 'Ryan Roach']"
+2024-05-20,PM,The Edge (Sports Hall 2),296,9,Dale Pearson,no,[],"['Felicia Bryant', 'William Hoffman', 'Christopher Ferguson', 'Christina Thompson', 'Brittney Cameron', 'Natalie Mckinney', 'Brandon Jackson', 'James Mitchell']","['Paul Villa', 'Chelsea Rosales', 'Raymond Jensen']"
+2024-05-21,AM,Chemistry West Block SR (1.65),8,2,Michael Velez,yes,['Glenda Martinez DDS'],[],['Sarah Osborne']
+2024-05-21,AM,Chemistry West Block SR (G.75),6,2,Edward Yang,yes,['Ronald Diaz'],[],['Mr. Bill Hoffman MD']
+2024-05-21,AM,Cohen Computer Cluster A&B (1.40),49,1,Kevin Thompson,no,[],[],"['Mrs. Lisa Everett', 'Julie Bonilla', 'Catherine Moon']"
+2024-05-21,AM,EC Stoner Cluster (6.61),2,1,Thomas Jones,no,[],[],['William Henderson']
+2024-05-21,AM,EC Stoner Cluster (6.68),1,1,Lindsay Sellers,no,[],[],['Heather Hampton']
+2024-05-21,AM,EC Stoner SR (7.70),12,4,Samantha Lynch,yes,"['Ronnie Harris', 'David Patel', 'Amy Holland']",[],['Jamie Jordan']
+2024-05-21,AM,EC Stoner SR (7.78),10,3,Desiree Vazquez,yes,"['Kayla Briggs', 'Jose Mathews']",[],['Mr. Kevin Collins']
+2024-05-21,AM,EC Stoner SR (7.79),3,1,Carol Abbott,yes,[],[],['Trevor Garcia']
+2024-05-21,AM,Emmanuel Centre SR 01,1,1,George Campbell,yes,[],[],['Danny Wilson']
+2024-05-21,AM,Emmanuel Centre SR 02,1,1,Sarah Osborne,yes,[],[],['Sara Ayers']
+2024-05-21,AM,English SR 1 (LG.04) House 10 Cavendish Road,6,2,Nathan Carroll,yes,['Natalie Mckinney'],[],['Laurie Schwartz']
+2024-05-21,AM,English SR 2 (LG.06) House 10 Cavendish Road,2,1,Nicole Marshall,yes,[],[],['Ray Ellison']
+2024-05-21,AM,English SR 4 (LG.02) House 10 Cavendish Road,4,1,Krystal Miller,yes,[],[],['Adrian Riggs']
+2024-05-21,AM,English SR 7 (LG.05) House 5 Cavendish Road,2,1,Sean Turner,yes,[],[],['Jordan Marsh']
+2024-05-21,AM,Great Hall,120,4,Adrian Riggs,no,[],"['Travis Clark', 'Andrea Taylor', 'Benjamin Rojas III']","['Mary White', 'Gabriella Flores', 'Eric Duncan']"
+2024-05-21,AM,Irene Manton North Cluster (7.96),4,1,Ann Stewart,no,[],[],['Daniel Wright']
+2024-05-21,AM,Irene Manton South Cluster (7.90),4,1,Patrick Proctor,no,[],[],['Daniel Griffin']
+2024-05-21,AM,Martin Thomas Translation Lab 1 (1.30),15,1,Janice Marsh,no,[],[],['Michael Jackson']
+2024-05-21,AM,Martin Thomas Translation Lab 2 (1.30a),2,1,Dwayne Everett,no,[],[],['Andrea Taylor']
+2024-05-21,AM,Michael Sadler SR (1.19),1,1,Rita Bates,yes,[],[],['Nathan Carroll']
+2024-05-21,AM,Michael Sadler SR (B.37),6,2,Ray Santos,yes,['Dustin Barry'],[],['Caitlyn Matthews']
+2024-05-21,AM,Michael Sadler SR (B.49),2,1,Gabriel Smith,yes,[],[],['Kari Thornton']
+2024-05-21,AM,Michael Sadler SR (LG.10),65,2,Kevin Murphy,no,[],['Jason Thompson'],"['Robert Garcia', 'Jeffrey Taylor', 'Andrew English']"
+2024-05-21,AM,Michael Sadler SR (LG.15),40,1,Evelyn Adams,no,[],[],"['Ray Ellison', 'Alexis Johnson', 'Sara Ayers']"
+2024-05-21,AM,Parkinson SR (B.08),20,1,Thomas Robinson,no,[],[],['Elizabeth Wells']
+2024-05-21,AM,Parkinson SR (B.09),8,1,Jessica King,no,[],[],['Jacqueline Fields']
+2024-05-21,AM,Psychology Cluster (1.43),13,1,Amanda Sharp,no,[],[],['Mrs. Betty Shannon']
+2024-05-21,AM,Psychology Cluster (1.45),3,1,Johnny Harrison,no,[],[],['Daniel Wright']
+2024-05-21,AM,Room UG09 (Great Hall Building),63,2,Linda Hanson,no,[],['Susan Hampton'],"['Johnny Harrison', 'Adam Johnston', 'Christopher Hernandez']"
+2024-05-21,AM,Social Sciences SR (10.06),2,1,Benjamin Booker,yes,[],[],['Monica Hendrix']
+2024-05-21,AM,Social Sciences SR (10.10),7,2,Raymond Jensen,yes,['Patrick Wood'],[],['Jeffrey Taylor']
+2024-05-21,AM,Social Sciences SR (12.38),10,3,Patrick Dickerson,yes,"['Amanda Morgan', 'Caroline Vasquez']",[],['Micheal Mason']
+2024-05-21,AM,Textiles Computer Cluster (G.34),5,1,Jeremy Butler,yes,[],[],['Lisa Murphy']
+2024-05-21,AM,The Edge (Sports Hall 1),478,15,Ronnie Chambers,no,[],"['Joann King', 'Thomas Walker', 'Mark Johnson', 'Lauren Peters', 'Jennifer Simpson', 'Krystal Li', 'Abigail Hobbs', 'Bryan Hanson', 'Amanda Grimes', 'Allison Howard', 'Robert Torres', 'Olivia Patrick', 'Kerri Sanchez', 'Nancy Shaw']","['Shane Hanna', 'Lisa Banks', 'Robert Kerr']"
+2024-05-21,AM,The Edge (Sports Hall 2),287,9,Ryan Savage,no,[],"['Ryan Roach', 'Linda Alvarez', 'Danny Wilson', 'Jerry Lewis', 'Mathew Perry', 'Roger Hensley', 'Nicholas Brown', 'Mark Torres']","['Jordan Zuniga', 'Dennis Nixon', 'Patrick Dickerson']"
+2024-05-21,PM,Cohen Computer Cluster A&B (1.40),49,1,Cynthia Weber,no,[],[],"['Lisa Chen', 'Sarah Nguyen', 'Lorraine Cummings']"
+2024-05-21,PM,Conference Gallery,91,3,Shannon Duarte,no,[],"['Sydney Jefferson', 'Tracy Jones']","['Michael Jackson', 'Timothy Johnson', 'Felicia Dean']"
+2024-05-21,PM,EC Stoner Cluster (6.68),17,1,Patricia George,no,[],[],['Emma Rubio']
+2024-05-21,PM,Emmanuel Centre SR 02,1,1,Daniel Jackson,yes,[],[],['Douglas Gonzalez']
+2024-05-21,PM,Emmanuel Centre SR 03,1,1,Ryan Hart,yes,[],[],['Jennifer Miller']
+2024-05-21,PM,Emmanuel Centre SR 04,1,1,Anthony Palmer,yes,[],[],['Kevin Robles']
+2024-05-21,PM,Emmanuel Centre SR 05,1,1,James Rogers,yes,[],[],['Nicholas Fisher']
+2024-05-21,PM,Great Hall,148,4,Stephanie Duncan,no,[],"['Barbara Cunningham', 'Randall Weiss', 'Brandon Castro']","['Elizabeth Glass', 'Jason Price', 'John Mercer']"
+2024-05-21,PM,Irene Manton North Cluster (7.96),3,1,George Hughes,no,[],[],['Michelle Dunn']
+2024-05-21,PM,Irene Manton South Cluster (7.90),4,1,John Adams,no,[],[],['Lisa Young']
+2024-05-21,PM,Michael Sadler SR (B.37),3,1,Theresa Whitehead,yes,[],[],['Andrea Taylor']
+2024-05-21,PM,Michael Sadler SR (B.49),2,1,Leah Welch,yes,[],[],['Scott Brooks']
+2024-05-21,PM,Michael Sadler SR (LG.10),53,1,Joshua Burch,no,[],[],"['Theresa Burns', 'Danielle Holt', 'Mr. David Monroe']"
+2024-05-21,PM,Michael Sadler SR (LG.15),41,1,Brian Ellis,no,[],[],"['Roger Manning', 'Michelle Dunn', 'Kim Jones']"
+2024-05-21,PM,Michael Sadler World Cinema Rm (B.36),1,1,Richard Davis,yes,[],[],['Kelsey Chavez']
+2024-05-21,PM,Newlyn SR (GR.01),68,2,Gary Mcconnell,no,[],['Katelyn Dennis'],"['Mrs. Lisa King', 'James Hoffman', 'Mr. Kevin Collins']"
+2024-05-21,PM,Newlyn SR (GR.07),68,2,Tamara Chapman MD,no,[],['Mark Davidson MD'],"['Evelyn Johnson', 'Megan Maynard', 'Gabriel Hinton']"
+2024-05-21,PM,Psychology Cluster (1.43),10,1,Roger Manning,no,[],[],['Timothy Santos']
+2024-05-21,PM,Psychology Cluster (1.45),11,1,Hannah Taylor,no,[],[],['Ryan Barnett']
+2024-05-21,PM,Room UG09 (Great Hall Building),95,3,Monica Davidson,no,[],"['Mr. Kevin Collins', 'Crystal Rodriguez']","['Tonya Michael', 'Nathan Carroll', 'Cheryl Bradley']"
+2024-05-21,PM,Social Sciences SR (10.05),9,3,Melissa Russell,yes,"['Levi Garcia', 'Jonathan Hunter']",[],['Justin Morris']
+2024-05-21,PM,Social Sciences SR (10.06),8,2,Elizabeth Wells,yes,['Mr. Billy Cardenas'],[],['Robin Kirk']
+2024-05-21,PM,Social Sciences SR (10.10),9,3,Aaron Young,yes,"['Alyssa Lowe', 'Cassidy Stanley']",[],['Edgar Reeves']
+2024-05-21,PM,Social Sciences SR (12.38),12,4,Wayne Morgan,yes,"['Glenda Martinez DDS', 'Nicole Walker', 'Rachel Caldwell']",[],['Kelsey Chavez']
+2024-05-21,PM,Textiles Computer Cluster (G.34),4,1,Roger Hensley,yes,[],[],['Melinda Santana']
+2024-05-21,PM,The Edge (Sports Hall 1),475,15,Jessica Nolan,no,[],"['Devin Russo', 'Carla Woods', 'Joshua Cummings', 'Lindsey Greene', 'Cheryl Bradley', 'Joseph Vance', 'Megan Maynard', 'Nicholas Bell', 'Michael Harrison', 'Dylan Miller', 'Stacy Mills', 'Nicole Sanchez', 'Brendan Davis', 'Dawn Thomas']","['Bryan Hanson', 'Tiffany Jones', 'Terry Hernandez']"
+2024-05-21,PM,The Edge (Sports Hall 2),298,9,Jason Baker,no,[],"['Ray Ellison', 'Paul Johnson', 'Nicholas Hernandez', 'Benjamin Trujillo', 'Ryan Barnes', 'Bethany Johnson', 'Kathryn Jones', 'Raymond Hernandez']","['Nicholas Fisher', 'Sonya Jenkins', 'Colleen Avila']"
+2024-05-22,AM,Conference Gallery,82,2,Andrew Bradford,no,[],['Dominique Smith'],"['Kevin Sharp', 'Garrett Hunt', 'Veronica Phillips']"
+2024-05-22,AM,EC Stoner SR (7.70),10,3,Lisa Morgan,yes,"['Kathryn Moore', 'Alejandro Jones']",[],['Michael Reynolds']
+2024-05-22,AM,EC Stoner SR (7.78),7,2,Jennifer Christina,yes,['Joseph Barnes'],[],['Andrew Simmons']
+2024-05-22,AM,Emmanuel Centre SR 01,1,1,Henry Burns,yes,[],[],['Brandy Clark MD']
+2024-05-22,AM,Emmanuel Centre SR 02,1,1,Lisa Richmond,yes,[],[],['Gabriella Flores']
+2024-05-22,AM,Emmanuel Centre SR 03,1,1,Paula Wilson,yes,[],[],['Joanna Cross']
+2024-05-22,AM,Emmanuel Centre SR 04,1,1,Elizabeth Richard,yes,[],[],['Richard Knight']
+2024-05-22,AM,Emmanuel Centre SR 05,1,1,Alexis Johnson,yes,[],[],['Benjamin Hudson']
+2024-05-22,AM,Emmanuel Centre SR 10,6,2,David Cisneros,yes,['Erin Diaz'],[],['Paul Villa']
+2024-05-22,AM,Emmanuel Centre SR 11,7,2,Shawn Hutchinson,yes,['Nicholas Hernandez'],[],['Eduardo Shaw']
+2024-05-22,AM,English SR 1 (LG.04) House 10 Cavendish Road,5,1,Nicholas Bell,yes,[],[],['April Rodriguez']
+2024-05-22,AM,English SR 2 (LG.06) House 10 Cavendish Road,4,1,Emily Ritter DDS,yes,[],[],['Lynn Smith']
+2024-05-22,AM,English SR 3 (LG.01) House 10 Cavendish Road,2,1,Alex Kim,yes,[],[],['Richard Knight']
+2024-05-22,AM,English SR 7 (LG.05) House 5 Cavendish Road,3,1,Paul Castro,yes,[],[],['Tracy Schmidt']
+2024-05-22,AM,Great Hall,132,4,Dr. Jeffery Ferguson,no,[],"['Carlos Woods', 'Joseph Johnson', 'Tammy Jacobs']","['Cody Gutierrez', 'Elizabeth Fox', 'Garrett Arnold']"
+2024-05-22,AM,Irene Manton North Cluster (7.96),4,1,Jacob Holmes,no,[],[],['Daniel Richards']
+2024-05-22,AM,Michael Sadler SR (1.19),1,1,Eric Caldwell,yes,[],[],['Jasmine Hayes']
+2024-05-22,AM,Michael Sadler SR (LG.10),43,1,Pamela Smith,no,[],[],"['Peter Smith', 'Suzanne Hamilton', 'Cynthia Hess']"
+2024-05-22,AM,Psychology Cluster (1.43),7,1,Lauren Banks,no,[],[],['David Patel']
+2024-05-22,AM,Psychology Cluster (1.45),18,1,Jennifer Nelson,no,[],[],['Paula Wilson']
+2024-05-22,AM,Room UG09 (Great Hall Building),83,2,Eric Hall,no,[],['John Daniels'],"['Laura Reed', 'Stacy Wells', 'Toni Burnett']"
+2024-05-22,AM,Social Sciences SR (10.05),7,2,Margaret White,yes,['Jordan Reilly'],[],['Sara Randall']
+2024-05-22,AM,Social Sciences SR (10.07),10,3,Jon Johnson,yes,"['Lucas Jones', 'Dana Hopkins']",[],['Karen Nelson']
+2024-05-22,AM,Social Sciences SR (10.10),6,2,Colleen Smith,yes,['Alexis Bernard'],[],['Kim Jones']
+2024-05-22,AM,Social Sciences SR (12.38),10,3,Sarah Sharp,yes,"['Christopher Garcia', 'Natalie Davis']",[],['Olivia Jackson']
+2024-05-22,AM,Textiles Computer Cluster (G.34),5,1,Mark Davidson MD,yes,[],[],['Clayton Johnson']
+2024-05-22,AM,The Edge (Sports Hall 1),522,17,Laura Reed,no,[],"['Mia Collins', 'Christopher Walton', 'Richard Garcia', 'Jessica Giles', 'Matthew Perez', 'Ricky Salazar', 'Tammy Miller', 'Karen Rivera', 'Brandon Morales', 'Tracy Schmidt', 'Michelle Stephenson', 'Jordan Marsh', 'Brian Williams', 'Joseph Patterson', 'Dennis Johnson', 'Johnny Hawkins']","['Kenneth Berger', 'Dr. Shane Randall', 'Timothy Martin']"
+2024-05-22,AM,The Edge (Sports Hall 2),214,7,Peter Smith,no,[],"['Monica Hendrix', 'Ryan Stewart', 'Mary Marquez DDS', 'Stephanie Hicks', 'Jennifer Harrison', 'Jason Leon']","['Scott Johnston', 'Elizabeth Richard', 'Monica Davidson']"
+2024-05-22,AM,EC Stoner SR (7.70),1,1,Alejandra Winters,yes,[],[],['Richard Elliott']
+2024-05-22,AM,EC Stoner SR (7.78),1,1,Meagan Hernandez,yes,[],[],['Tammy Mccarty']
+2024-05-22,PM,Chemistry West Block SR (G.75),6,2,Timothy Smith,yes,['Alexandra Dennis'],[],['Gina Rollins']
+2024-05-22,PM,EC Stoner Cluster (6.68),8,1,Kerri Sanchez,no,[],[],['Jamie Jordan']
+2024-05-22,PM,EC Stoner SR (7.70),13,4,Richard Smith,yes,"['Melanie Jackson', 'Pedro Mcdaniel', 'Jose Castaneda']",[],['Christina Armstrong']
+2024-05-22,PM,EC Stoner SR (7.78),11,3,Cody Gutierrez,yes,"['Amanda Sharp', 'Barbara Rodriguez']",[],['George Shaw']
+2024-05-22,PM,EC Stoner SR (7.79),15,5,Andrew English,yes,"['Andrew Hood', 'Nicholas Fisher', 'Richard Garcia', 'Richard Elliott']",[],['Christina Thompson']
+2024-05-22,PM,Emmanuel Centre SR 01,1,1,Guy Freeman,yes,[],[],['Kevin Newman']
+2024-05-22,PM,Emmanuel Centre SR 10,7,2,Mr. Ronald Smith,yes,['Susan Hampton'],[],['Ryan Hart']
+2024-05-22,PM,English SR 1 (LG.04) House 10 Cavendish Road,5,1,Lisa Phillips,yes,[],[],['Catherine Moon']
+2024-05-22,PM,English SR 2 (LG.06) House 10 Cavendish Road,4,1,Sharon Parker,yes,[],[],['Joel Dominguez']
+2024-05-22,PM,English SR 3 (LG.01) House 10 Cavendish Road,3,1,Cody Hopkins,yes,[],[],['James Joyce']
+2024-05-22,PM,English SR 4 (LG.02) House 10 Cavendish Road,4,1,Gina Rollins,yes,[],[],['Guy Freeman']
+2024-05-22,PM,Great Hall,133,4,Judy Tran,no,[],"['Angela Hart', 'Kathleen Ford', 'Cindy Schmitt']","['Melanie Giles', 'Ryan Davis', 'Mr. Bill Hoffman MD']"
+2024-05-22,PM,Martin Thomas Translation Lab 1 (1.30),12,1,Nicholas Bryant,no,[],[],['Justin James']
+2024-05-22,PM,Martin Thomas Translation Lab 2 (1.30a),3,1,Brian Huang,no,[],[],['Michael Garcia']
+2024-05-22,PM,Michael Sadler SR (1.19),1,1,William Flores,yes,[],[],['Kimberly Barrett']
+2024-05-22,PM,Michael Sadler SR (1.37),1,1,Hayley Murphy,yes,[],[],['Jason Guzman']
+2024-05-22,PM,Michael Sadler SR (2.01),1,1,Daniel Salazar,yes,[],[],['Joel Dominguez']
+2024-05-22,PM,Michael Sadler SR (LG.10),21,1,Mary Duffy,no,[],[],['Mrs. Lisa King']
+2024-05-22,PM,Michael Sadler SR (LG.15),13,1,Brittany Perez,no,[],[],['Mathew Perry']
+2024-05-22,PM,Michael Sadler World Cinema Rm (B.36),6,2,Karen Meyers,yes,['Edgar Reeves'],[],['Robert Fritz']
+2024-05-22,PM,Psychology Cluster (1.43),22,1,Gary Phillips,no,[],[],['Robert Harrison']
+2024-05-22,PM,Psychology Cluster (1.45),4,1,Kathy Zamora,no,[],[],['Jordan Reilly']
+2024-05-22,PM,Room UG09 (Great Hall Building),95,3,Mercedes Powell,no,[],"['Jennifer Powers', 'Raymond Figueroa']","['Jacob Holmes', 'Heather Duran DVM', 'Cody Gutierrez']"
+2024-05-22,PM,Social Sciences SR (10.07),6,2,Mary White,yes,['Nicholas Pennington'],[],['Samuel Freeman']
+2024-05-22,PM,Textiles Computer Cluster (G.34),7,2,Vanessa Aguilar,yes,['Daniel Montoya'],[],['Kerri Sanchez']
+2024-05-22,PM,The Edge (Sports Hall 1),521,17,Jessica Mckee,no,[],"['Jose Mathews', 'Amy Sims', 'Mia Collins', 'Ryan Savage', 'Matthew Harris', 'Connor Taylor', 'April Wright', 'Micheal Mason', 'Donna Stephens', 'Nancy Shaw', 'Thomas Johnson', 'Lisa Richmond', 'Manuel Nichols', 'Richard Howell', 'Corey Johnston', 'Alexandra Robinson']","['Monica Hendrix', 'Juan Smith', 'James Joyce']"
+2024-05-22,PM,The Edge (Sports Hall 2),284,9,Ryan Drake,no,[],"['Tammy Miller', 'Theresa Benton', 'Michael Maxwell', 'Bryan Hanson', 'Jennifer Hill', 'Christina Armstrong', 'Jason Robbins', 'Stacey Byrd']","['Brandon Jackson', 'Jon Johnson', 'Rebecca Wall']"
+2024-05-23,AM,Cohen Computer Cluster A&B (1.40),93,3,Patricia Lopez DDS,no,[],"['Amanda Harris', 'David Gallegos']","['Lisa Parker', 'Lisa Banks', 'Ashley Fisher']"
+2024-05-23,AM,Conference Gallery,43,1,Shane Hanna,no,[],[],"['Sandra Martin', 'Charles Warren', 'James Joyce']"
+2024-05-23,AM,EC Stoner Cluster (6.61),40,1,Isaac Black,no,[],[],"['Carmen Castro', 'Arthur Tucker', 'Lisa Warren']"
+2024-05-23,AM,EC Stoner Cluster (6.68),43,1,Reginald Burns,no,[],[],"['Jennifer Thompson DVM', 'Benjamin Trujillo', 'Lee Turner']"
+2024-05-23,AM,Emmanuel Centre SR 02,1,1,Michael Hood,yes,[],[],['Melissa Powell']
+2024-05-23,AM,Emmanuel Centre SR 10,3,1,Jennifer Richardson,yes,[],[],['Gina Rollins']
+2024-05-23,AM,Emmanuel Centre SR 11,8,2,Danny Reeves,yes,['Mark Thompson'],[],['Joshua Burns']
+2024-05-23,AM,English SR 1 (LG.04) House 10 Cavendish Road,5,1,Jennifer Reynolds,yes,[],[],['Monica Davidson']
+2024-05-23,AM,English SR 3 (LG.01) House 10 Cavendish Road,4,1,Nichole Hood,yes,[],[],['Amanda Hammond']
+2024-05-23,AM,Fourman O and P Cluster (8.49),92,3,Amber Buchanan,no,[],"['Dr. Sarah Hunter', 'Michelle Johnson']","['Sharon Long', 'Joanne Pineda', 'Justin Davis']"
+2024-05-23,AM,Great Hall,145,4,Donna Stephens,no,[],"['Mr. Bill Hoffman MD', 'Keith Johnson', 'Christopher Neal']","['Travis Sullivan', 'Trevor Garcia', 'Justin Morris']"
+2024-05-23,AM,Irene Manton North Cluster (7.96),4,1,Vanessa Soto,no,[],[],['Danny Wilson']
+2024-05-23,AM,Irene Manton South Cluster (7.90),1,1,Sarah Scott,no,[],[],['Jessica Nolan']
+2024-05-23,AM,Michael Sadler SR (1.19),1,1,Justin Morris,yes,[],[],['Gabriella Flores']
+2024-05-23,AM,Michael Sadler SR (B.37),3,1,Marcia Farley,yes,[],[],['Mark Graham']
+2024-05-23,AM,Michael Sadler SR (B.49),3,1,Christopher Parker,yes,[],[],['Marie Phillips']
+2024-05-23,AM,Michael Sadler SR (LG.10),54,1,Theresa Benton,no,[],[],"['Jennifer Joseph', 'Marisa Martin', 'Keith Bowman']"
+2024-05-23,AM,Michael Sadler World Cinema Rm (B.36),7,2,Jason Bridges,yes,['Pedro Mcdaniel'],[],['Margaret Hicks']
+2024-05-23,AM,Psychology Cluster (1.43),15,1,Denise Love,no,[],[],['Carol Abbott']
+2024-05-23,AM,Psychology Cluster (1.45),20,1,Garrett Arnold,no,[],[],['Jacob Holmes']
+2024-05-23,AM,Room UG09 (Great Hall Building),94,3,Stacey Turner,no,[],"['Robert Fritz', 'Melody Young']","['Jason Roth', 'William Young', 'Cody Gallagher']"
+2024-05-23,AM,Social Sciences SR (10.05),7,2,Tyler Williams,yes,['Thomas Mcdowell'],[],['Paul Villa']
+2024-05-23,AM,Social Sciences SR (10.07),7,2,Miss Cindy Villegas MD,yes,['Cynthia Johnson'],[],['Evelyn Adams']
+2024-05-23,AM,Social Sciences SR (10.10),4,1,Dr. Gail Foster,yes,[],[],['Michael Grant']
+2024-05-23,AM,Textiles Computer Cluster (G.34),9,3,Nicholas Bryant,yes,"['Patrick Jacobson', 'Robin Martinez']",[],['Ricky Campbell']
+2024-05-23,AM,The Edge (Sports Hall 1),309,10,Richard Freeman,no,[],"['Joanne Pineda', 'Matthew Hoffman', 'Ashley Fisher', 'Allen Sanders', 'David Black', 'Shelley Frey', 'Michael Harrison', 'Jocelyn Wilson', 'Tiffany Jones']","['Laurie Kennedy', 'Mary White', 'Ryan Stewart']"
+2024-05-23,AM,The Edge (Sports Hall 2),201,6,Yvonne Wiggins MD,no,[],"['Rachel Caldwell', 'Elizabeth Huynh', 'David Hayes', 'Rebecca Wang', 'Laurie Kennedy']","['Kristen Smith', 'Aimee Bailey', 'Austin Smith Jr.']"
+2024-05-23,PM,Cohen Computer Cluster A&B (1.40),55,1,April Barrera,no,[],[],"['James West', 'Katherine Nelson', 'Mr. Daniel Taylor MD']"
+2024-05-23,PM,Emmanuel Centre SR 01,1,1,Tracey Orozco,yes,[],[],['Nancy Torres']
+2024-05-23,PM,English SR 2 (LG.06) House 10 Cavendish Road,3,1,Sarah Sharp,yes,[],[],['Jennifer Brown DDS']
+2024-05-23,PM,English SR 3 (LG.01) House 10 Cavendish Road,4,1,Amber Richardson,yes,[],[],['Brett Wright']
+2024-05-23,PM,Michael Sadler SR (1.19),1,1,Eric Hall,yes,[],[],['Michael Reynolds']
+2024-05-23,PM,Michael Sadler SR (2.01),1,1,Jordan Zuniga,yes,[],[],['Kimberly Figueroa']
+2024-05-23,PM,Michael Sadler SR (LG.10),36,1,Eduardo Shaw,no,[],[],"['Jeremiah Marshall', 'Tracy Maynard', 'Elizabeth Huynh']"
+2024-05-23,PM,Michael Sadler SR (LG.15),26,1,Bobby Miller DVM,no,[],[],['Jacob Holmes']
+2024-05-23,PM,Psychology Cluster (1.43),8,1,Michael Reynolds,no,[],[],['Nathan Carroll']
+2024-05-23,PM,Psychology Cluster (1.45),10,1,Jennifer Navarro,no,[],[],['Beth Miller']
+2024-05-23,PM,Social Sciences SR (10.06),5,1,Patricia Buck MD,yes,[],[],['Ryan Stewart']
+2024-05-23,PM,Social Sciences SR (10.07),5,1,Olivia Jackson,yes,[],[],['Thomas Walker']
+2024-05-23,PM,Social Sciences SR (10.10),8,2,Caitlin Gallegos,yes,['Johnny Harrison'],[],['Gina Rollins']
+2024-05-23,PM,Social Sciences SR (12.38),11,3,Anne Santiago,yes,"['Wendy Jones', 'John Alvarez']",[],['Jodi Cox']
+2024-05-23,PM,Textiles Computer Cluster (G.34),4,1,Marilyn Johnson,yes,[],[],['Amy Holland']
+2024-05-23,PM,The Edge (Sports Hall 1),509,16,Shannon Gallegos,no,[],"['Kimberly Barrett', 'Caitlyn Neal', 'Marie Phillips', 'Katherine Caldwell', 'Andrea Taylor', 'Jennifer Nelson', 'Michael Garcia', 'Terry Hernandez', 'Theresa Burns', 'Tammy Thompson', 'Jason Thompson', 'Christina Ayers', 'Cody Gallagher', 'Nicole Martin', 'James Castro']","['Patrick Proctor', 'Mr. Ronald Smith', 'Henry Burns']"
+2024-05-23,PM,The Edge (Sports Hall 2),287,9,Robin Joyce,no,[],"['Joseph Spencer', 'Mark Wolfe', 'Scott Mccann', 'Lisa Morgan', 'Jennifer Christina', 'Dylan Bates', 'Bryce Campbell', 'Kendra Hanson']","['Erin Smith', 'Paula Johnson', 'Patrick Jacobson']"
+2024-05-24,AM,Chemistry West Block SR (1.65),7,2,Krystal Galvan,yes,['Lisa Erickson'],[],['Thomas Mcdowell']
+2024-05-24,AM,Chemistry West Block SR (G.75),4,1,Gary Mcconnell,yes,[],[],['Christina Thompson']
+2024-05-24,AM,Cohen Computer Cluster A&B (1.40),83,2,Leslie Abbott,no,[],['Derrick Wilkinson'],"['Joseph Spencer', 'Shelley Frey', 'Kathryn Moore']"
+2024-05-24,AM,EC Stoner Cluster (6.61),1,1,William Riley DDS,no,[],[],['Theresa Austin']
+2024-05-24,AM,EC Stoner Cluster (6.68),40,1,Carrie Wilson,no,[],[],"['Christina Smith', 'Carmen Sanford', 'Robert Harrison']"
+2024-05-24,AM,EC Stoner SR (7.79),16,5,Kevin Hunter,yes,"['Kenneth Hunt', 'Mark Hernandez', 'Richard Howell', 'Jasmine Hayes']",[],['Christopher Levine']
+2024-05-24,AM,Emmanuel Centre SR 02,1,1,Mercedes Powell,yes,[],[],['Barbara White']
+2024-05-24,AM,Emmanuel Centre SR 04,1,1,Ryan Hart,yes,[],[],['Gilbert Dennis']
+2024-05-24,AM,Emmanuel Centre SR 05,1,1,Eric Williams,yes,[],[],['Eugene Perez']
+2024-05-24,AM,Emmanuel Centre SR 10,6,2,Erica Russell,yes,['Monica Davidson'],[],['Christina Ayers']
+2024-05-24,AM,Emmanuel Centre SR 11,8,2,Donald Howard,yes,['Timothy Rodriguez'],[],['Richard Knight']
+2024-05-24,AM,English SR 1 (LG.04) House 10 Cavendish Road,5,1,Carrie Dixon,yes,[],[],['Carol Abbott']
+2024-05-24,AM,English SR 2 (LG.06) House 10 Cavendish Road,2,1,Kim Colon,yes,[],[],['Scott Mccann']
+2024-05-24,AM,English SR 7 (LG.05) House 5 Cavendish Road,3,1,Mary White,yes,[],[],['Brandon Murray']
+2024-05-24,AM,Fourman O and P Cluster (8.49),90,3,Aaron Valdez,no,[],"['Pamela Lyons', 'Gilbert Dennis']","['Brent Cole', 'Janice Marsh', 'Denise Love']"
+2024-05-24,AM,Great Hall,158,5,Mrs. Lisa Everett,no,[],"['Keith English', 'Amanda Brown', 'Brittany Lawson', 'Stacy Wells']","['Mary Hensley', 'Vanessa Jones', 'Timothy Santos']"
+2024-05-24,AM,Irene Manton North Cluster (7.96),19,1,Lynn Smith,no,[],[],['Sandra Martin']
+2024-05-24,AM,Irene Manton South Cluster (7.90),17,1,Patricia Buck MD,no,[],[],['Jessica Yang']
+2024-05-24,AM,Michael Sadler SR (1.19),1,1,Catherine Moon,yes,[],[],['David Brooks']
+2024-05-24,AM,Michael Sadler SR (LG.10),70,2,Catherine Moon,no,[],['Alan Kim'],"['Garrett Arnold', 'Gina Cochran', 'Amanda Thompson MD']"
+2024-05-24,AM,Michael Sadler SR (LG.15),40,1,Sarah Hughes,no,[],[],"['James Young', 'Sarah Osborne', 'Nancy Torres']"
+2024-05-24,AM,Michael Sadler World Cinema Rm (B.36),6,2,Kathy Santos,yes,['Jenna Patterson'],[],['Raymond Wiggins']
+2024-05-24,AM,Newlyn SR (GR.01),51,1,Cheryl Flores,no,[],[],"['Cindy Lopez', 'Melissa Dickerson', 'Donald Howard']"
+2024-05-24,AM,Newlyn SR (GR.07),40,1,Lisa Jones,no,[],[],"['Jeff Spencer', 'Jason Roth', 'Nicole Walker']"
+2024-05-24,AM,Parkinson SR (B.09),12,1,Melissa Dickerson,no,[],[],['Amanda Navarro']
+2024-05-24,AM,Psychology Cluster (1.43),9,1,Kimberly Figueroa,no,[],[],['Tammy Miller']
+2024-05-24,AM,Psychology Cluster (1.45),6,1,Andre Owens,no,[],[],['Mary Marquez DDS']
+2024-05-24,AM,Room UG09 (Great Hall Building),82,2,Michael Deleon,no,[],['Luis Robertson'],"['Felicia Dean', 'Nathaniel House', 'Mary Davis']"
+2024-05-24,AM,Social Sciences SR (10.05),10,3,Jennifer Haynes,yes,"['Lori Martin', 'Cassidy Stanley']",[],['Amy Holland']
+2024-05-24,AM,Social Sciences SR (10.06),9,3,Vanessa Jones,yes,"['Marilyn Johnson', 'Ricky Campbell']",[],['Shelley Frey']
+2024-05-24,AM,Social Sciences SR (12.38),10,3,Michael Jackson,yes,"['Steven Chang', 'John Smith']",[],['Jennifer Miller']
+2024-05-24,AM,Textiles Computer Cluster (G.34),4,1,Gina Rollins,yes,[],[],['Carrie Wilson']
+2024-05-24,AM,The Edge (Sports Hall 1),512,17,Joseph Jones,no,[],"['Anita Adkins', 'Matthew Parker', 'Keith Wall', 'Benjamin Trujillo', 'Bobby Miller DVM', 'Kenneth Munoz', 'Michael Rodriguez', 'Jason Guzman', 'Connor Taylor', 'Richard Knight', 'Felicia Dean', 'Daniel Richards', 'Jack Meadows', 'Katherine Young', 'Joe Anderson', 'Ryan Phillips']","['Timothy Santos', 'Dawn Thomas', 'Caitlyn Neal']"
+2024-05-24,AM,The Edge (Sports Hall 2),235,7,Alexander Peters,no,[],"['Amanda Taylor', 'Eduardo Shaw', 'Crystal Rodriguez', 'Keith Shepherd', 'Jennifer Navarro', 'Christina Thompson']","['Christopher Burgess', 'Stacy Wells', 'Matthew Hoffman']"
+2024-05-24,AM,Emmanuel Centre SR 01,1,1,Erica Miller,yes,[],[],['Tyler Williams']
+2024-05-24,AM,English SR 2 (LG.06) House 10 Cavendish Road,1,1,Samuel Pena,yes,[],[],['Shirley Perez']
+2024-05-24,PM,Chemistry West Block SR (1.65),7,2,William Sanders,yes,['Pamela Smith'],[],['Jacob Holmes']
+2024-05-24,PM,Chemistry West Block SR (G.75),5,1,Abigail Hobbs,yes,[],[],['Paula Johnson']
+2024-05-24,PM,EC Stoner Cluster (6.61),8,1,Brian Hall,no,[],[],['Danny Reeves']
+2024-05-24,PM,EC Stoner Cluster (6.68),22,1,Anita Adkins,no,[],[],['Robert Espinoza']
+2024-05-24,PM,EC Stoner SR (7.70),12,4,Douglas Gonzalez,yes,"['Megan Hansen', 'Timothy Santos', 'Heather Duran DVM']",[],['Jason Campbell']
+2024-05-24,PM,EC Stoner SR (7.78),7,2,Eric Caldwell,yes,['Julie Bonilla'],[],['William Mclaughlin']
+2024-05-24,PM,EC Stoner SR (7.79),20,6,Emma Rubio,yes,"['Miguel Barton', 'Meagan Hernandez', 'Katherine Young', 'Kimberly Figueroa', 'John Daniels']",[],['Anthony Palmer']
+2024-05-24,PM,Emmanuel Centre SR 01,1,1,Joe Anderson,yes,[],[],['Daniel Griffin']
+2024-05-24,PM,Emmanuel Centre SR 02,1,1,Erica Garcia,yes,[],[],['Edward Goodman']
+2024-05-24,PM,Emmanuel Centre SR 10,5,1,Tracy Maynard,yes,[],[],['Daniel Hancock']
+2024-05-24,PM,Great Hall,98,3,Caroline Garcia,no,[],"['Peggy Conley', 'Denise Love']","['Michelle Dunn', 'Anita Adkins', 'Ryan Roach']"
+2024-05-24,PM,Irene Manton North Cluster (7.96),4,1,Benjamin Rojas III,no,[],[],['Christopher Ferguson']
+2024-05-24,PM,Michael Sadler SR (1.19),1,1,Yolanda Wilson,yes,[],[],['Nathan Webb']
+2024-05-24,PM,Michael Sadler SR (1.37),1,1,Laurie Kennedy,yes,[],[],['David Black']
+2024-05-24,PM,Michael Sadler SR (2.01),1,1,James Wells,yes,[],[],['Christopher Henderson']
+2024-05-24,PM,Michael Sadler SR (B.37),6,2,Barbara White,yes,['Casey Horn'],[],['Ashley Morgan']
+2024-05-24,PM,Michael Sadler World Cinema Rm (B.36),5,1,Kayla Moore,yes,[],[],['Meagan Hernandez']
+2024-05-24,PM,Parkinson SR (B.08),17,1,Sarah Holloway,no,[],[],['Rachel Caldwell']
+2024-05-24,PM,Parkinson SR (B.09),6,1,Ray Santos,no,[],[],['Mr. Patrick Smith']
+2024-05-24,PM,Psychology Cluster (1.43),10,1,Tammy Santos,no,[],[],['Heather Ross']
+2024-05-24,PM,Psychology Cluster (1.45),1,1,Kevin Robles,no,[],[],['Patrick Dickerson']
+2024-05-24,PM,Room UG09 (Great Hall Building),95,3,Gabriella Flores,no,[],"['Joseph Johnson', 'Melody Young']","['Angela Rangel', 'Christopher Mcfarland', 'Mark Williams']"
+2024-05-24,PM,Social Sciences SR (10.05),7,2,Elizabeth Riley,yes,['Rebecca Wall'],[],['Alyssa Lowe']
+2024-05-24,PM,Social Sciences SR (10.06),8,2,Christopher Garcia,yes,['Krystal Li'],[],['Steven Chang']
+2024-05-24,PM,Social Sciences SR (10.10),4,1,Kari Thornton,yes,[],[],['Kelsey Chavez']
+2024-05-24,PM,Social Sciences SR (12.38),10,3,Michael Rodriguez,yes,"['Dana Goodwin', 'Kathy Santos']",[],['Paul Castro']
+2024-05-24,PM,Textiles Computer Cluster (G.34),4,1,Sharon Long,yes,[],[],['Joseph Barnes']
+2024-05-24,PM,The Edge (Sports Hall 1),527,17,Laura Smith,no,[],"['Charles Wise', 'Robert Espinoza', 'Tammy Mccarty', 'Christopher Mcfarland', 'Megan Powell', 'Kevin Hunt', 'Shelby Walker', 'Mary Sweeney', 'Beth Miller', 'Joseph Barnes', 'Luis Castillo', 'Scott Johnston', 'Thomas Parker', 'Patricia Kelly', 'Laura Ford', 'Marisa Thompson']","['Melanie Giles', 'Jason Leon', 'Linda Moreno']"
+2024-05-24,PM,The Edge (Sports Hall 2),258,8,Michelle Dunn,no,[],"['Eugene Perez', 'Thomas Robinson', 'Melanie Giles', 'Margaret Hicks', 'Daniel Hancock', 'Elizabeth Glass', 'Kathy Eaton']","['Nathaniel Faulkner', 'David Patel', 'Alexis Johnson']"
+2024-05-29,AM,Chemistry West Block SR (1.65),9,3,Kevin Johnson,yes,"['Morgan Miranda', 'Samuel Fields']",[],['Elijah May']
+2024-05-29,AM,Chemistry West Block SR (1.80),10,1,Kimberly Campbell,no,[],[],['Justin Huff']
+2024-05-29,AM,Chemistry West Block SR (G.75),9,3,Roger Manning,yes,"['Elijah May', 'Jeffrey Villarreal']",[],['Robert Ward']
+2024-05-29,AM,EC Stoner Cluster (6.61),22,1,Candace Willis,no,[],[],['Amanda Taylor']
+2024-05-29,AM,EC Stoner SR (7.70),12,4,Sandra Perez,yes,"['Ronald Benjamin', 'Toni Russell', 'Brandon Jackson']",[],['Derek Thornton']
+2024-05-29,AM,EC Stoner SR (7.78),13,4,Angela Williams,yes,"['Michael Grant', 'Joel Holmes', 'John Lawson']",[],['Chelsea Rosales']
+2024-05-29,AM,EC Stoner SR (7.79),10,3,Sarah Morris,yes,"['Justin Huff', 'Sarah Holloway']",[],['Jamie Jordan']
+2024-05-29,AM,Emmanuel Centre SR 01,1,1,Elizabeth Campbell,yes,[],[],['Dana Goodwin']
+2024-05-29,AM,Emmanuel Centre SR 02,1,1,Gina Cochran,yes,[],[],['Melissa Martinez']
+2024-05-29,AM,Emmanuel Centre SR 03,1,1,Dylan Miller,yes,[],[],['Sara Randall']
+2024-05-29,AM,Emmanuel Centre SR 04,1,1,Michael Poole,yes,[],[],['Nicholas Brown']
+2024-05-29,AM,Emmanuel Centre SR 05,1,1,Caitlin Gallegos,yes,[],[],['Keith Shepherd']
+2024-05-29,AM,Emmanuel Centre SR 06,1,1,Jennifer Lee,yes,[],[],['James Hoffman']
+2024-05-29,AM,Emmanuel Centre SR 07,1,1,Brian Huang,yes,[],[],['Randall Weiss']
+2024-05-29,AM,Emmanuel Centre SR 08,1,1,Brandy Chung,yes,[],[],['James Mccarthy']
+2024-05-29,AM,English SR 2 (LG.06) House 10 Cavendish Road,5,1,Kathryn Jones,yes,[],[],['John Lawson']
+2024-05-29,AM,Fourman O and P Cluster (8.49),91,3,Amy Lara,no,[],"['Barbara Rodriguez', 'Heather Ross']","['Lisa Landry', 'Joseph Barnes', 'William Hoffman']"
+2024-05-29,AM,Great Hall,151,5,William Coleman,no,[],"['William Reed', 'Karen Meyers', 'Bryan Silva', 'Paul Ray DDS']","['Sheila Stewart', 'Steven Garcia', 'Wayne Smith']"
+2024-05-29,AM,Irene Manton South Cluster (7.90),5,1,Christina Smith,no,[],[],['Jason Calhoun']
+2024-05-29,AM,Michael Sadler SR (1.19),1,1,Lisa Dominguez,yes,[],[],['Raymond Jensen']
+2024-05-29,AM,Michael Sadler SR (1.37),1,1,Jennifer Powers,yes,[],[],['Kimberly Anthony MD']
+2024-05-29,AM,Michael Sadler SR (2.01),1,1,Jonathan Byrd,yes,[],[],['Shelly Wood']
+2024-05-29,AM,Michael Sadler SR (B.37),5,1,Daniel Rasmussen,yes,[],[],['Nicholas Miller']
+2024-05-29,AM,Michael Sadler SR (LG.10),71,2,Samuel Freeman,no,[],['Katherine Wilson'],"['Alan Kim', 'Kimberly Stewart', 'Sarah Morris']"
+2024-05-29,AM,Michael Sadler SR (LG.15),40,1,Nicole Barnes,no,[],[],"['Jennifer Lee', 'Luis Robertson', 'Rachel Schmidt']"
+2024-05-29,AM,Michael Sadler World Cinema Rm (B.36),3,1,Theresa Austin,yes,[],[],['James Joyce']
+2024-05-29,AM,Psychology Cluster (1.43),21,1,Patrick Diaz,no,[],[],['Monica Davidson']
+2024-05-29,AM,Psychology Cluster (1.45),7,1,Beth Miller,no,[],[],['Elizabeth Richard']
+2024-05-29,AM,Room UG09 (Great Hall Building),56,1,David Hughes,no,[],[],"['Christopher Wilson', 'John Morales', 'Shelby Walker']"
+2024-05-29,AM,Social Sciences SR (12.38),12,4,Christy Davis,yes,"['Kim Jones', 'Melissa Powell', 'Angel Jones']",[],['Thomas Velez']
+2024-05-29,AM,Textiles Computer Cluster (G.34),5,1,Robin Kirk,yes,[],[],['Sandra Martin']
+2024-05-29,AM,The Edge (Sports Hall 1),497,16,Jeff Spencer,no,[],"['Danielle Holt', 'Jody Baker', 'William Sanders', 'Alexandra Jones', 'Robert Johnson MD', 'Daniel Morrison', 'Edward Andrade', 'Lonnie Camacho', 'Christopher Henderson', 'Amber Richardson', 'Jessica Nolan', 'Miguel Barton', 'Thomas Gregory', 'Robert Hill', 'Sonya Jenkins']","['Mrs. Amanda Tran MD', 'Kari Thornton', 'Elizabeth Donaldson']"
+2024-05-29,AM,The Edge (Sports Hall 2),234,7,Marco Cordova,no,[],"['Wendy Jones', 'Melissa Sims', 'Suzanne Smith', 'Devin Russo', 'Dana Goodwin', 'Aimee Bailey']","['Matthew Perez', 'Bryce Campbell', 'Tiffany Jones']"
+2024-05-29,PM,EC Stoner Cluster (6.68),22,1,Billy Richards DDS,no,[],[],['Gregory Stafford']
+2024-05-29,PM,EC Stoner SR (7.78),5,1,Jeff Spencer,yes,[],[],['Elaine Murray']
+2024-05-29,PM,EC Stoner SR (7.79),16,5,Stacy Osborne,yes,"['Melissa Payne', 'David Gibson', 'Mrs. Katrina Scott', 'Garrett Arnold']",[],['Timothy Martin']
+2024-05-29,PM,Emmanuel Centre SR 01,1,1,Austin Sanchez,yes,[],[],['Michael Maxwell']
+2024-05-29,PM,Fourman O and P Cluster (8.49),55,1,Christian Atkinson,no,[],[],"['Vanessa Aguilar', 'James Jackson', 'Elizabeth Richard']"
+2024-05-29,PM,Great Hall,140,4,Sara Lester,no,[],"['Jennifer Lee', 'Christopher Goodwin', 'Alexander Lin']","['Stacy Tate', 'Elizabeth Glass', 'Shelby Walker']"
+2024-05-29,PM,Irene Manton North Cluster (7.96),21,1,Kayla Collins,no,[],[],['Sharon Parker']
+2024-05-29,PM,Martin Thomas Translation Lab 1 (1.30),17,1,Lucas Jones,no,[],[],['Gina Cochran']
+2024-05-29,PM,Martin Thomas Translation Lab 2 (1.30a),3,1,Cheryl Flores,no,[],[],['Gary Mcconnell']
+2024-05-29,PM,Michael Sadler SR (LG.10),67,2,Keith Bowman,no,[],['Allen Sanchez'],"['Dylan Wilson', 'Melanie White', 'Michael Maxwell']"
+2024-05-29,PM,Psychology Cluster (1.43),8,1,Scott Mooney,no,[],[],['Krystal Galvan']
+2024-05-29,PM,Psychology Cluster (1.45),13,1,Raven Strickland,no,[],[],['Gabriella Flores']
+2024-05-29,PM,Social Sciences SR (10.05),10,3,Michael Hughes,yes,"['Sara Allen', 'Elizabeth Jones']",[],['Aimee Bailey']
+2024-05-29,PM,Social Sciences SR (10.06),4,1,Paul Carroll,yes,[],[],['Henry Burns']
+2024-05-29,PM,Social Sciences SR (12.38),8,2,Jack West,yes,['Brandy Chung'],[],['Toni Russell']
+2024-05-29,PM,Textiles Computer Cluster (G.34),4,1,Lisa Jones,yes,[],[],['Benjamin Trujillo']
+2024-05-29,PM,The Edge (Sports Hall 1),514,17,Mary Hensley,no,[],"['Sara Oneill', 'Jessica Giles', 'Ronald Jones', 'Sarah Scott', 'Aimee Bailey', 'Sarah Morris', 'Ashley Butler', 'Jacqueline Shaw', 'Julie Stevens', 'Melissa Powell', 'Sean Turner', 'Taylor Valenzuela', 'Michelle Johnson', 'Heather Hampton', 'Pamela Lyons', 'Maria Elliott']","['Bill Armstrong', 'Derek Thornton', 'Thomas Robinson']"
+2024-05-29,PM,The Edge (Sports Hall 2),171,5,Felicia Williams,no,[],"['Kevin Newman', 'Joshua Rowland', 'Brady Clark', 'Jason Calhoun']","['Robin Martinez', 'Christopher Walton', 'Debra Mills']"
+2024-05-30,AM,Chemical and Process Engineering Cluster (GR.06),59,1,Nicole Johnson,no,[],[],"['Mrs. Laura Obrien', 'Eric Gomez', 'Denise Stanley']"
+2024-05-30,AM,Cohen Computer Cluster A&B (1.40),90,3,Edward Olson,no,[],"['Amanda Bishop', 'Sherri Green']","['Chris Bond', 'Jennifer Hamilton', 'Aimee Tucker']"
+2024-05-30,AM,EC Stoner Cluster (6.61),37,1,Patricia Washington,no,[],[],"['Michelle Delgado', 'Ryan Hart', 'Caitlin Gallegos']"
+2024-05-30,AM,EC Stoner Cluster (6.68),43,1,Juan Smith,no,[],[],"['Samantha Moore', 'Kayla Bailey', 'Sarah Holt']"
+2024-05-30,AM,EC Stoner SR (7.70),13,4,George Guerrero,yes,"['Melanie Jackson', 'Mary Sweeney', 'James Castro']",[],['Scott Mooney']
+2024-05-30,AM,EC Stoner SR (7.78),7,2,Daniel Griffin,yes,['Erica Garcia'],[],['Mark Hernandez']
+2024-05-30,AM,EC Stoner SR (7.79),20,6,Sara Ayers,yes,"['Michael Rody', 'Samantha Le', 'Cole Ramsey', 'Dan Orozco', 'Eric Taylor']",[],['David Hayes']
+2024-05-30,AM,Emmanuel Centre SR 01,1,1,Sharon Long,yes,[],[],['Ruth Mcmillan']
+2024-05-30,AM,Fourman O and P Cluster (8.49),100,3,Anne Santiago,no,[],"['Anthony Sanchez', 'Raven Strickland']","['Katherine Rubio', 'Eric Hall', 'Alejandra Winters']"
+2024-05-30,AM,Great Hall,78,2,Diane Duncan,no,[],['Katherine Rubio'],"['Richard Pittman', 'Daniel Rasmussen', 'Kimberly Reynolds']"
+2024-05-30,AM,Irene Manton North Cluster (7.96),5,1,Anthony Powell,no,[],[],['Mark Hernandez']
+2024-05-30,AM,Irene Manton South Cluster (7.90),26,1,Edward Goodman,no,[],[],['Nicole Smith']
+2024-05-30,AM,Michael Sadler SR (1.19),1,1,Joshua Rowland,yes,[],[],['Christopher Mcfarland']
+2024-05-30,AM,Michael Sadler SR (B.49),3,1,Denise Ward,yes,[],[],['Pedro Mcdaniel']
+2024-05-30,AM,Michael Sadler World Cinema Rm (B.36),7,2,Dennis Fischer,yes,['Richard Davis'],[],['George Hughes']
+2024-05-30,AM,Psychology Cluster (1.43),8,1,Felicia Williams,no,[],[],['Joann King']
+2024-05-30,AM,Psychology Cluster (1.45),11,1,Lisa Landry,no,[],[],['Michael Grant']
+2024-05-30,AM,Room UG09 (Great Hall Building),76,2,Cynthia Hess,no,[],['Stephanie Duncan'],"['Brendan Davis', 'Debra Mills', 'Jack West']"
+2024-05-30,AM,Social Sciences SR (10.10),8,2,Joel Dominguez,yes,['Kelsey Chavez'],[],['Tyler Kim']
+2024-05-30,AM,Textiles Computer Cluster (G.34),5,1,Jacqueline Shaw,yes,[],[],['Kari Thornton']
+2024-05-30,AM,The Edge (Sports Hall 1),479,15,Mr. Kevin Collins,no,[],"['Nicholas Fisher', 'Kelly Walker', 'Benjamin Lynch', 'Sean Powell', 'Adam Johnston', 'Olivia Jackson', 'Dominique Mccoy', 'Roger Carter', 'Amanda Haley', 'Kevin Robles', 'Melissa Wolfe', 'Katelyn Dennis', 'George Hughes', 'Debra Thompson']","['Jose Castaneda', 'Rebecca Kim', 'Joel Dominguez']"
+2024-05-30,AM,The Edge (Sports Hall 2),288,9,Elizabeth Riley,no,[],"['Jason Price', 'Bryce Campbell', 'Shannon Gallegos', 'Tammy Mccarty', 'Shelby Green', 'Gabriel Hinton', 'Linda Harmon', 'Tyler Kim']","['Bradley Maddox', 'Benjamin Rojas III', 'Bruce Adkins']"
+2024-05-30,AM,Irene Manton North Cluster (7.96),1,1,Kristi Fischer,no,[],[],['Mark Williams']
+2024-05-30,PM,Chemical and Process Engineering Cluster (GR.06),75,2,Richard Anderson,no,[],['Elizabeth Huynh'],"['Elijah Phillips', 'Margaret White', 'Richard Garcia']"
+2024-05-30,PM,Chemistry West Block SR (1.80),12,1,Sharon Johnston,no,[],[],['John Daniels']
+2024-05-30,PM,Cohen Computer Cluster A&B (1.40),39,1,Stephanie Carter,no,[],[],"['Christina Ayers', 'Ashley Fisher', 'Sara Lester']"
+2024-05-30,PM,Conference Gallery,91,3,Laura Ferguson,no,[],"['Kyle Watkins', 'Tiffany Jones']","['Amy Lara', 'Jonathan Bryant', 'Margaret Smith']"
+2024-05-30,PM,EC Stoner Cluster (6.61),37,1,Angela Rangel,no,[],[],"['Theresa Benton', 'Angela Reese', 'Randy Hall']"
+2024-05-30,PM,EC Stoner Cluster (6.68),43,1,Yvonne Wiggins MD,no,[],[],"['David Fuentes', 'Jerry Lewis', 'Brittney Cameron']"
+2024-05-30,PM,EC Stoner SR (7.78),8,2,William Riley DDS,yes,['Joanna Cross'],[],['John Smith']
+2024-05-30,PM,EC Stoner SR (7.79),14,4,Sheila Stewart,yes,"['Benjamin Booker', 'April Hall', 'William Reed']",[],['Timothy Santos']
+2024-05-30,PM,Emmanuel Centre SR 01,1,1,Sharon Oconnor,yes,[],[],['Melissa Sims']
+2024-05-30,PM,Emmanuel Centre SR 02,1,1,Lisa Conley,yes,[],[],['Chelsea Rosales']
+2024-05-30,PM,Emmanuel Centre SR 03,1,1,Michael Grant,yes,[],[],['Keith Johnson']
+2024-05-30,PM,Emmanuel Centre SR 04,1,1,Stephanie Reyes,yes,[],[],['David Gibson']
+2024-05-30,PM,Emmanuel Centre SR 05,1,1,April Rodriguez,yes,[],[],['Aimee Bailey']
+2024-05-30,PM,English SR 1 (LG.04) House 10 Cavendish Road,5,1,Aaron Valdez,yes,[],[],['Janet Marshall']
+2024-05-30,PM,English SR 2 (LG.06) House 10 Cavendish Road,4,1,Richard Jones,yes,[],[],['Mark Johnson']
+2024-05-30,PM,English SR 3 (LG.01) House 10 Cavendish Road,3,1,Kayla Briggs,yes,[],[],['Carol Abbott']
+2024-05-30,PM,English SR 4 (LG.02) House 10 Cavendish Road,1,1,Jennifer Reynolds,yes,[],[],['David Gibson']
+2024-05-30,PM,Fourman O and P Cluster (8.49),84,2,Jon Johnson,no,[],['Cassandra Hunter'],"['Christina Thompson', 'Daniel Montoya', 'Krystal Galvan']"
+2024-05-30,PM,Great Hall,140,4,Shane Stafford,no,[],"['Cole Ramsey', 'Laurie Schwartz', 'Jack Meadows']","['Justin Davis', 'Jose Mathews', 'Sheila Stewart']"
+2024-05-30,PM,Irene Manton North Cluster (7.96),14,1,Laura Reed,no,[],[],['Barbara Cunningham']
+2024-05-30,PM,Irene Manton South Cluster (7.90),12,1,Mark Thompson,no,[],[],['Anthony Powell']
+2024-05-30,PM,Michael Sadler SR (1.19),1,1,Edward Goodman,yes,[],[],['Kenneth Munoz']
+2024-05-30,PM,Michael Sadler SR (1.37),1,1,Janet Marshall,yes,[],[],['Cynthia Johnson']
+2024-05-30,PM,Michael Sadler SR (LG.10),29,1,Phillip Smith,no,[],[],['Elizabeth Riley']
+2024-05-30,PM,Michael Sadler SR (LG.15),23,1,Wayne Smith,no,[],[],['Thomas Gregory']
+2024-05-30,PM,Newlyn SR (1.01),68,2,Mathew Perry,no,[],['Jordan Reilly'],"['John Smith', 'Roger Hensley', 'Jennifer Simpson']"
+2024-05-30,PM,Newlyn SR (1.07),50,1,Katherine Wilson,no,[],[],"['Rita Bates', 'Brian Huang', 'Nicole Ward']"
+2024-05-30,PM,Newlyn SR (GR.01),68,2,Rebecca Hawkins,no,[],['Leslie Abbott'],"['William Henderson', 'Julie Russell', 'David Matthews']"
+2024-05-30,PM,Newlyn SR (GR.07),68,2,Donna Combs,no,[],['Brent Cole'],"['Dwayne Everett', 'Richard Pittman', 'Lisa Dominguez']"
+2024-05-30,PM,Psychology Cluster (1.43),4,1,Lisa Young,no,[],[],['David Lewis']
+2024-05-30,PM,Psychology Cluster (1.45),10,1,Melissa Sims,no,[],[],['Sarah Osborne']
+2024-05-30,PM,Room UG09 (Great Hall Building),95,3,Timothy Kent,no,[],"['Danny Wilson', 'Anthony Sanchez']","['Keith Johnson', 'Crystal Rodriguez', 'Elizabeth Wells']"
+2024-05-30,PM,Social Sciences SR (10.05),6,2,Marissa Baker,yes,['Jacqueline Fields'],[],['Tammy Thompson']
+2024-05-30,PM,Social Sciences SR (10.06),6,2,Michelle Morgan,yes,['Julie Jefferson'],[],['Erin Johnson']
+2024-05-30,PM,Social Sciences SR (10.07),10,3,Joanne Pineda,yes,"['Tracy Fischer', 'Christina Smith']",[],['Cassandra Hunter']
+2024-05-30,PM,Social Sciences SR (10.10),9,3,Ashley Fisher,yes,"['Thomas Hunter', 'Brandy Clark MD']",[],['Alicia Kelly']
+2024-05-30,PM,Textiles Computer Cluster (G.34),7,2,Justin Davis,yes,['Gabriel Hinton'],[],['Daniel Montoya']
+2024-05-30,PM,The Edge (Sports Hall 1),396,13,Diane Duncan,no,[],"['Daniel Griffin', 'Donald Howard', 'Anthony Powell', 'Marvin Caldwell', 'Nicholas Marsh', 'Keith Wall', 'Sarah Osborne', 'Jason Campbell', 'Leonard Welch', 'Kevin Johnson', 'Eric Day', 'John Ibarra']","['Nicole Walker', 'Nicole Ward', 'Adam Lopez']"
+2024-05-30,PM,The Edge (Sports Hall 2),210,7,Sabrina Cruz,no,[],"['Bruce Adkins', 'Lisa Dominguez', 'Mr. David Monroe', 'Matthew Hoffman', 'Erin Johnson', 'Erin Lopez']","['Hannah Taylor', 'Casey Williams', 'Jessica Herrera']"
+2024-05-31,AM,Chemical and Process Engineering Cluster (GR.06),55,1,Bradley Lyons,no,[],[],"['George Adkins', 'Richard Bean', 'Vanessa Hampton']"
+2024-05-31,AM,Cohen Computer Cluster A&B (1.40),92,3,Yolanda Wilson,no,[],"['Andrew Rodriguez', 'Mercedes Johnson']","['Steven Robertson', 'Kari Thornton', 'Stacey Turner']"
+2024-05-31,AM,EC Stoner Cluster (6.61),5,1,Jessica Macdonald,no,[],[],['Todd Cardenas']
+2024-05-31,AM,EC Stoner Cluster (6.68),39,1,William Warren,no,[],[],"['Nicholas Hernandez', 'Danielle Green', 'Matthew Perez']"
+2024-05-31,AM,EC Stoner SR (7.78),12,4,Barbara White,yes,"['Angela Hart', 'Michael Maxwell', 'Levi Garcia']",[],['Erik Rivera']
+2024-05-31,AM,EC Stoner SR (7.79),17,5,Aaron Chan,yes,"['Eric Duncan', 'Christopher Burgess', 'Christina Thomas', 'Brittney Cameron']",[],['Teresa Rojas']
+2024-05-31,AM,Emmanuel Centre SR 01,1,1,Joshua Garcia,yes,[],[],['Alyssa Lowe']
+2024-05-31,AM,Emmanuel Centre SR 02,1,1,Melanie White,yes,[],[],['Timothy Kent']
+2024-05-31,AM,Emmanuel Centre SR 03,1,1,Christopher Hernandez,yes,[],[],['Stacy Tate']
+2024-05-31,AM,Emmanuel Centre SR 10,1,1,Sandra Martin,yes,[],[],['Amy Holland']
+2024-05-31,AM,English SR 1 (LG.04) House 10 Cavendish Road,8,2,Daniel Jackson,yes,['Thomas Johnson'],[],['Rachel Schmidt']
+2024-05-31,AM,English SR 3 (LG.01) House 10 Cavendish Road,5,1,Caitlyn Neal,yes,[],[],['Tonya Michael']
+2024-05-31,AM,Fourman O and P Cluster (8.49),58,1,Jordan Simon,no,[],[],"['Ryan Stewart', 'Richard Pittman', 'Trevor Garcia']"
+2024-05-31,AM,Great Hall,113,3,Miss Amanda Estrada,no,[],"['Daniel Montoya', 'Felicia Bryant']","['Jack Delacruz', 'Theresa Austin', 'Theresa Whitehead']"
+2024-05-31,AM,Michael Sadler SR (1.19),1,1,Judy Tran,yes,[],[],['Karen Taylor']
+2024-05-31,AM,Michael Sadler SR (1.37),1,1,Patricia Kelly,yes,[],[],['Tracey Orozco']
+2024-05-31,AM,Michael Sadler SR (2.01),1,1,Janet Marshall,yes,[],[],['Danielle Holt']
+2024-05-31,AM,Michael Sadler SR (B.37),6,2,Stacy Osborne,yes,['George Shaw'],[],['Rachel Caldwell']
+2024-05-31,AM,Michael Sadler SR (B.49),4,1,Trevor Garcia,yes,[],[],['Edward Goodman']
+2024-05-31,AM,Michael Sadler SR (LG.10),61,2,Theresa Mitchell,no,[],['Wayne Smith'],"['Benjamin Booker', 'Nicholas Miller', 'Jason Guzman']"
+2024-05-31,AM,Michael Sadler World Cinema Rm (B.36),8,2,Jeffrey Taylor,yes,['Mark Wolfe'],[],['Richard Jones']
+2024-05-31,AM,Newlyn SR (GR.01),68,2,Bradley Maddox,no,[],['Matthew Harris'],"['Lucas Jones', 'Gregory Mcclain', 'Felicia Bryant']"
+2024-05-31,AM,Newlyn SR (GR.07),33,1,Brandon Murray,no,[],[],"['Bradley Maddox', 'Patricia Kelly', 'Cynthia Johnson']"
+2024-05-31,AM,Psychology Cluster (1.43),13,1,Abigail Kim,no,[],[],['Marco Cordova']
+2024-05-31,AM,Psychology Cluster (1.45),34,1,Diana Harris,no,[],[],"['Mark Wolfe', 'Nicole Smith', 'Marvin Caldwell']"
+2024-05-31,AM,Room UG09 (Great Hall Building),87,2,Mary Duffy,no,[],['Brandon Dominguez'],"['Maria Elliott', 'April Wright', 'Nicole Marshall']"
+2024-05-31,AM,Social Sciences SR (10.07),10,3,Lisa Parker,yes,"['Ryan Richards', 'Linda Nelson']",[],['Candace Hall']
+2024-05-31,AM,Social Sciences SR (10.10),10,3,Vicki Sullivan,yes,"['Margaret Hicks', 'Cody Ortiz']",[],['Mr. Bill Hoffman MD']
+2024-05-31,AM,Textiles Computer Cluster (G.34),3,1,Amy Sims,yes,[],[],['Jack Meadows']
+2024-05-31,AM,The Edge (Sports Hall 1),450,15,Joe Marks,no,[],"['Taylor Valenzuela', 'Melissa Russell', 'John Alvarez', 'Jessica Yang', 'April Rodriguez', 'Amber Blevins', 'Mark Garcia', 'Derek Boyd', 'Maria Elliott', 'Mike Leonard', 'Tony Miranda', 'Maria Edwards DVM', 'Lori Wells', 'Jennifer Joseph']","['Susan Matthews', 'Kevin Hunt', 'Miss Cindy Villegas MD']"
+2024-05-31,AM,The Edge (Sports Hall 2),283,9,Elizabeth Glass,no,[],"['Theresa Whitehead', 'Rebecca Wall', 'Amy Sherman', 'William Flores', 'Karen Taylor', 'Lisa Chen', 'Jessica Mckee', 'Kevin Hunt']","['Cynthia Johnson', 'Nathan Webb', 'Miss Cindy Villegas MD']"
+2024-05-31,PM,Chemistry West Block SR (1.80),10,1,Alisha Gray,no,[],[],['Eric Daniel']
+2024-05-31,PM,Chemistry West Block SR (G.75),10,3,Kenneth Berger,yes,"['Stephanie Hicks', 'Elizabeth Richard']",[],['Mrs. Lisa King']
+2024-05-31,PM,Conference Gallery,30,1,Monique Owens,no,[],[],"['Sarah Holloway', 'Dana Hopkins', 'Jacqueline Fields']"
+2024-05-31,PM,EC Stoner SR (7.70),8,2,Leslie Cummings,yes,['Lori Martin'],[],['Kathryn Jones']
+2024-05-31,PM,EC Stoner SR (7.78),11,3,Edward Andrade,yes,"['Yolanda Diaz', 'Karen Taylor']",[],['Jodi Cox']
+2024-05-31,PM,EC Stoner SR (7.79),10,3,Susan Matthews,yes,"['Derrick Wilkinson', 'Jacob Zimmerman']",[],['Cody Hopkins']
+2024-05-31,PM,Emmanuel Centre SR 01,1,1,Daniel Richards,yes,[],[],['Gregory Mcclain']
+2024-05-31,PM,Emmanuel Centre SR 02,1,1,Lynn Murphy,yes,[],[],['Ricky Terry']
+2024-05-31,PM,Emmanuel Centre SR 10,5,1,Michael Jackson,yes,[],[],['Sarah Holloway']
+2024-05-31,PM,Emmanuel Centre SR 11,7,2,Ryan Roach,yes,['Karen Nelson'],[],['Justin Morris']
+2024-05-31,PM,English SR 3 (LG.01) House 10 Cavendish Road,4,1,Margaret White,yes,[],[],['Travis Clark']
+2024-05-31,PM,Great Hall,119,3,Jessica Herrera,no,[],"['Dana Wilkinson', 'Jose Stewart']","['Daniel Garcia', 'Joseph Patterson', 'Ryan Richards']"
+2024-05-31,PM,Irene Manton North Cluster (7.96),2,1,Alexis Bernard,no,[],[],['Pedro Mcdaniel']
+2024-05-31,PM,Irene Manton South Cluster (7.90),2,1,Abigail Kim,no,[],[],['Meagan Hernandez']
+2024-05-31,PM,Martin Thomas Translation Lab 1 (1.30),7,1,Tyler White,no,[],[],['Toni Burnett']
+2024-05-31,PM,Martin Thomas Translation Lab 2 (1.30a),6,1,Thomas Mcdowell,no,[],[],['Gabriella Flores']
+2024-05-31,PM,Michael Sadler SR (1.19),1,1,Andrea Christensen,yes,[],[],['Sarah Holloway']
+2024-05-31,PM,Michael Sadler SR (1.37),1,1,Erica Russell,yes,[],[],['Amy Holland']
+2024-05-31,PM,Michael Sadler SR (2.01),1,1,Sara Boone,yes,[],[],['James Castro']
+2024-05-31,PM,Michael Sadler SR (B.37),5,1,William Mclaughlin,yes,[],[],['Thomas Mcdowell']
+2024-05-31,PM,Michael Sadler SR (B.49),2,1,Amanda Haley,yes,[],[],['Ricky Salazar']
+2024-05-31,PM,Michael Sadler SR (LG.15),2,1,Lisa Price,no,[],[],['Robert Torres']
+2024-05-31,PM,Michael Sadler World Cinema Rm (B.36),5,1,James Swanson,yes,[],[],['Matthew Harris']
+2024-05-31,PM,Psychology Cluster (1.43),7,1,Derek Thornton,no,[],[],['Katherine Young']
+2024-05-31,PM,Psychology Cluster (1.45),10,1,Sean Powell,no,[],[],['Elizabeth Richard']
+2024-05-31,PM,Social Sciences SR (10.05),9,3,Katherine Rubio,yes,"['Carol Wiley', 'Carrie Dixon']",[],['Rebecca Wall']
+2024-05-31,PM,Social Sciences SR (10.10),4,1,Danielle Bowers,yes,[],[],['Arthur Tucker']
+2024-05-31,PM,Social Sciences SR (12.38),6,2,Tyler Kim,yes,['Lori Wells'],[],['Ashley Robinson']
+2024-05-31,PM,Textiles Computer Cluster (G.34),3,1,Mary Marquez DDS,yes,[],[],['Leslie Abbott']
+2024-05-31,PM,The Edge (Sports Hall 1),532,17,Theresa Austin,no,[],"['Amanda Peterson', 'Kim Colon', 'George Campbell', 'Robin Martinez', 'Robert Graves', 'Linda Hanson', 'Ruth Mcmillan', 'Nicholas Brown', 'Amy Holland', 'Casey Williams', 'Jeffrey Taylor', 'Tommy Monroe', 'Nathaniel House', 'Marco Cordova', 'Michael Poole', 'Keith Johnson']","['Dustin Lee', 'Michael Rody', 'Laurie Kennedy']"
+2024-05-31,PM,The Edge (Sports Hall 2),291,9,Christopher Levine,no,[],"['Krystal Miller', 'Matthew Perez', 'Catherine Moon', 'Jacob Holmes', 'Thomas Velez', 'David Adams', 'Jennifer Holder', 'Thomas Thornton']","['Nicholas Hernandez', 'Kevin Norris', 'Gina Rollins']"
+2024-06-03,AM,Chemistry West Block SR (1.65),8,2,Willie Flores,yes,['Stephanie Craig'],[],['Lucas Jones']
+2024-06-03,AM,Cohen Computer Cluster A&B (1.40),93,3,Mrs. Lisa King,no,[],"['Jacob Davis', 'Matthew Berry']","['Harry Garcia', 'Michael Rody', 'Barbara Nelson']"
+2024-06-03,AM,EC Stoner Cluster (6.68),43,1,Lisa Young,no,[],[],"['Leah Welch', 'James Castro', 'Trevor Garcia']"
+2024-06-03,AM,EC Stoner SR (7.70),13,4,Stephen Wells,yes,"['Mr. Patrick Smith', 'John Mercer', 'Leslie Cummings']",[],['Jordan Marsh']
+2024-06-03,AM,EC Stoner SR (7.78),15,5,Elizabeth Wells,yes,"['Shane Stafford', 'Hannah Taylor', 'Ryan Barnes', 'Michael Garcia']",[],['Elizabeth Jones']
+2024-06-03,AM,Emmanuel Centre SR 01,1,1,Jacqueline Taylor,yes,[],[],['Katelyn Dennis']
+2024-06-03,AM,Emmanuel Centre SR 02,1,1,Travis Sullivan,yes,[],[],['Jessica Yang']
+2024-06-03,AM,Emmanuel Centre SR 03,1,1,Raymond Hernandez,yes,[],[],['Linda Hanson']
+2024-06-03,AM,Emmanuel Centre SR 10,7,2,Cody Gutierrez,yes,['Paul Johnson'],[],['Carla Woods']
+2024-06-03,AM,English SR 1 (LG.04) House 10 Cavendish Road,5,1,Benjamin Hudson,yes,[],[],['Debra Mendoza']
+2024-06-03,AM,English SR 3 (LG.01) House 10 Cavendish Road,4,1,Andrea Christensen,yes,[],[],['Aaron Chan']
+2024-06-03,AM,English SR 7 (LG.05) House 5 Cavendish Road,3,1,Sherri Adams,yes,[],[],['Elijah May']
+2024-06-03,AM,Fourman O and P Cluster (8.49),90,3,Vanessa Aguilar,no,[],"['Christina Ayers', 'Michael Robbins']","['Lucas Jones', 'Mr. Patrick Smith', 'Brett Wright']"
+2024-06-03,AM,Great Hall,147,4,Ryan Drake,no,[],"['Christopher Levine', 'Casey Williams', 'Bruce Adkins']","['Kimberly Barrett', 'Jon Hanson', 'Kristen Smith']"
+2024-06-03,AM,Michael Sadler SR (1.19),1,1,Alexandra Valencia,yes,[],[],['Sonya Jenkins']
+2024-06-03,AM,Michael Sadler SR (B.49),3,1,Kenneth Berger,yes,[],[],['Richard Davis']
+2024-06-03,AM,Michael Sadler SR (LG.10),49,1,Monique Owens,no,[],[],"['Julie Jefferson', 'Bryan Hanson', 'Bill Armstrong']"
+2024-06-03,AM,Michael Sadler SR (LG.15),18,1,Judy Tran,no,[],[],['Daniel Garcia']
+2024-06-03,AM,Psychology Cluster (1.43),8,1,Kathy Zamora,no,[],[],['Susan Matthews']
+2024-06-03,AM,Psychology Cluster (1.45),27,1,Rebecca Hawkins,no,[],[],['Sherri Adams']
+2024-06-03,AM,Room UG09 (Great Hall Building),84,2,Gabriella Flores,no,[],['Kevin Carey'],"['Heather Duran DVM', 'Laura Smith', 'April Wright']"
+2024-06-03,AM,Social Sciences SR (10.05),11,3,Richard Elliott,yes,"['Eugene Perez', 'Ashley Butler']",[],['Cindy Lopez']
+2024-06-03,AM,Social Sciences SR (10.10),9,3,Emma Rubio,yes,"['Bill Armstrong', 'Casey Bailey']",[],['Suzanne Smith']
+2024-06-03,AM,Social Sciences SR (12.38),13,4,Anthony Palmer,yes,"['William Henderson', 'Melissa Martinez', 'Justin Lester']",[],['Ronnie Chambers']
+2024-06-03,AM,Textiles Computer Cluster (G.34),6,2,Margaret French,yes,['Micheal Mason'],[],['George Hughes']
+2024-06-03,AM,The Edge (Sports Hall 1),529,17,Michael Hughes,no,[],"['Tracy Fischer', 'Jennifer Dominguez', 'Corey Johnston', 'Shirley Perez', 'Marisa Martin', 'Michele Blackburn', 'Barbara Nelson', 'Mrs. Amanda Tran MD', 'Megan Powell', 'Dawn Thomas', 'Eric Day', 'Charlene Rios', 'Alicia Brown', 'David Gibson', 'Dylan Wilson', 'Kimberly Barrett']","['Lucas Jones', 'Jocelyn Wilson', 'David Hayes']"
+2024-06-03,AM,The Edge (Sports Hall 2),283,9,Scott Booth,no,[],"['Guy Freeman', 'Ruth Mcmillan', 'Dr. Heather Vang', 'Ryan Davis', 'Mark Williams', 'Melinda Rodriguez', 'Heather Duran DVM', 'Candace Hall']","['Hannah Taylor', 'Jacqueline Taylor', 'Lisa Morgan']"
+2024-06-03,AM,Emmanuel Centre SR 04,1,1,Kevin Norris,yes,[],[],['William Reed']
+2024-06-03,AM,English SR 3 (LG.01) House 10 Cavendish Road,1,1,Carmen Sanford,yes,[],[],['Susan Matthews']
+2024-06-03,AM,Psychology Cluster (1.45),1,1,Yolanda Diaz,no,[],[],['John Daniels']
+2024-06-03,PM,Chemistry West Block SR (1.65),8,2,Linda Moreno,yes,['Cynthia Johnson'],[],['Ryan Drake']
+2024-06-03,PM,Chemistry West Block SR (G.75),7,2,Arthur Tucker,yes,['Brandon Vance'],[],['Brooke Johnson']
+2024-06-03,PM,Cohen Computer Cluster A&B (1.40),74,2,Jordan Russell,no,[],['Anna Nicholson'],"['Ryan Savage', 'Julie Russell', 'Raven Strickland']"
+2024-06-03,PM,EC Stoner Cluster (6.61),36,1,Jennifer Joseph,no,[],[],"['Carrie Dixon', 'Kathleen Rodriguez', 'Terry Hernandez']"
+2024-06-03,PM,EC Stoner Cluster (6.68),1,1,Adrian Riggs,no,[],[],['Andrew Simmons']
+2024-06-03,PM,Emmanuel Centre SR 01,1,1,Mrs. Lisa King,yes,[],[],['Eric Caldwell']
+2024-06-03,PM,Emmanuel Centre SR 03,1,1,Morgan Kemp,yes,[],[],['Charles Zimmerman']
+2024-06-03,PM,Emmanuel Centre SR 04,1,1,Candace Willis,yes,[],[],['Christopher Garcia']
+2024-06-03,PM,Emmanuel Centre SR 10,6,2,Olivia Patrick,yes,['Dr. Sarah Hunter'],[],['Scott Mccann']
+2024-06-03,PM,English SR 2 (LG.06) House 10 Cavendish Road,5,1,John Mercer,yes,[],[],['Richard Garcia']
+2024-06-03,PM,Great Hall,141,4,Janice Barnes,no,[],"['George Shaw', 'Brandon Morales', 'Sierra Decker']","['James Rogers', 'Kenneth Munoz', 'Nicholas Jordan']"
+2024-06-03,PM,Irene Manton North Cluster (7.96),9,1,Janice Marsh,no,[],[],['Jennifer Simpson']
+2024-06-03,PM,Irene Manton South Cluster (7.90),4,1,Ashley Green,no,[],[],['David Adams']
+2024-06-03,PM,Michael Sadler SR (1.19),1,1,Jacob Davis,yes,[],[],['Rebecca Wall']
+2024-06-03,PM,Michael Sadler SR (1.37),1,1,Mark Hernandez,yes,[],[],['Sarah Sharp']
+2024-06-03,PM,Michael Sadler SR (2.01),1,1,Colleen Smith,yes,[],[],['Richard Garcia']
+2024-06-03,PM,Michael Sadler SR (B.37),7,2,Karen Rivera,yes,['Paul Castro'],[],['Gregory Mcclain']
+2024-06-03,PM,Michael Sadler SR (B.49),3,1,Jack Delacruz,yes,[],[],['Karen Taylor']
+2024-06-03,PM,Michael Sadler SR (LG.10),74,2,Dana Hopkins,no,[],['Lisa Murphy'],"['Sierra Decker', 'Frank Hale', 'Dr. Sarah Hunter']"
+2024-06-03,PM,Michael Sadler SR (LG.15),41,1,Mrs. Lisa Everett,no,[],[],"['Mark Hernandez', 'Donald Howard', 'Anne Santiago']"
+2024-06-03,PM,Michael Sadler World Cinema Rm (B.36),8,2,David Hughes,yes,['Mary Davis'],[],['Tamara Chapman MD']
+2024-06-03,PM,Newlyn SR (GR.01),51,1,Isaac Black,no,[],[],"['Daniel Morrison', 'Dustin Kramer', 'Kathleen Rodriguez']"
+2024-06-03,PM,Newlyn SR (GR.07),45,1,Steven Chang,no,[],[],"['Paul Ray DDS', 'Justin Davis', 'Thomas Thornton']"
+2024-06-03,PM,Parkinson SR (B.08),28,1,Amber Buchanan,no,[],[],['Tammy Thompson']
+2024-06-03,PM,Parkinson SR (B.09),16,1,Kelsey Hill,no,[],[],['Melissa Martinez']
+2024-06-03,PM,Psychology Cluster (1.43),6,1,Robin Kirk,no,[],[],['Thomas Velez']
+2024-06-03,PM,Psychology Cluster (1.45),24,1,Crystal Burns,no,[],[],['Mark Wilson']
+2024-06-03,PM,Room UG09 (Great Hall Building),74,2,Desiree Vazquez,no,[],['Charlene Rios'],"['Kathryn Smith', 'Tommy Monroe', 'Elaine Murray']"
+2024-06-03,PM,Social Sciences SR (10.05),10,3,Jessica Macdonald,yes,"['Leslie Cox', 'Tonya Michael']",[],['Travis Sullivan']
+2024-06-03,PM,Social Sciences SR (10.06),9,3,Vanessa Hampton,yes,"['Jason Roth', 'Brooke Johnson']",[],['Sierra Decker']
+2024-06-03,PM,Social Sciences SR (10.07),11,3,Carlos Woods,yes,"['Kayla Bailey', 'Curtis Mercado']",[],['Amanda Morgan']
+2024-06-03,PM,Social Sciences SR (12.38),12,4,Jason Price,yes,"['Travis Sullivan', 'David Russo', 'Robert Harrison']",[],['Curtis Mercado']
+2024-06-03,PM,Textiles Computer Cluster (G.34),4,1,Dwayne Everett,yes,[],[],['Frank Hale']
+2024-06-03,PM,The Edge (Sports Hall 1),447,14,Luis Robertson,no,[],"['Kevin Thompson', 'Jonathan Byrd', 'Sarah Nguyen', 'Claudia Santos', 'Julie Russell', 'Justin Lester', 'Joel Holmes', 'Ann Stewart', 'Allen Sanders', 'Melissa Dickerson', 'Steven Murphy', 'Heather Ross', 'Kevin Vargas']","['Bryce Campbell', 'Sara Lester', 'Caitlyn Neal']"
+2024-06-03,PM,The Edge (Sports Hall 2),242,8,Scott Rubio,no,[],"['Adam Lopez', 'Henry Burns', 'Patrick Jacobson', 'Robert Sherman', 'Christopher Burgess', 'Mark Wilson', 'Lisa Banks']","['Benjamin Trujillo', 'Christopher Mcfarland', 'Jessica Macdonald']"
+2024-06-04,AM,Cohen Computer Cluster A&B (1.40),72,2,Curtis Mercado,no,[],['Timothy Kent'],"['Jack Delacruz', 'Nicholas Day', 'Bruce Adkins']"
+2024-06-04,AM,EC Stoner Cluster (6.61),37,1,Tammy Santos,no,[],[],"['Benjamin Mitchell', 'Sheila Harris', 'Amanda Morgan']"
+2024-06-04,AM,EC Stoner SR (7.70),15,5,Tammy Thompson,yes,"['Jason Calhoun', 'Timothy Martin', 'James Swanson', 'Carol Wiley']",[],['Crystal Rodriguez']
+2024-06-04,AM,English SR 2 (LG.06) House 10 Cavendish Road,4,1,Veronica Phillips,yes,[],[],['Patricia Buck MD']
+2024-06-04,AM,English SR 3 (LG.01) House 10 Cavendish Road,5,1,Kyle Floyd,yes,[],[],['Katherine Rubio']
+2024-06-04,AM,English SR 4 (LG.02) House 10 Cavendish Road,4,1,Christopher Wilson,yes,[],[],['Andrew Bradford']
+2024-06-04,AM,English SR 7 (LG.05) House 5 Cavendish Road,4,1,Shelly Wood,yes,[],[],['Janice Marsh']
+2024-06-04,AM,Great Hall,152,5,Amanda Phillips,no,[],"['Lisa Banks', 'Katherine Caldwell', 'Ashley Taylor', 'Joanna Cross']","['Mr. Cameron Knight', 'Justin Huff', 'Michelle Johnson']"
+2024-06-04,AM,Michael Sadler SR (1.19),1,1,Sara Randall,yes,[],[],['William Mclaughlin']
+2024-06-04,AM,Psychology Cluster (1.43),19,1,Danielle Bowers,no,[],[],['Suzanne Hamilton']
+2024-06-04,AM,Room UG09 (Great Hall Building),63,2,Kathleen Ford,no,[],['Keith Bowman'],"['Robin Joyce', 'Theresa Whitehead', 'Stephanie Craig']"
+2024-06-04,AM,Social Sciences SR (10.06),7,2,Samantha Hart,yes,['Ashley Morgan'],[],['David Hughes']
+2024-06-04,AM,Social Sciences SR (10.07),7,2,Brandon Castro,yes,['Sara Allen'],[],['Cassandra Hunter']
+2024-06-04,AM,Textiles Computer Cluster (G.34),6,2,Julia Fuller,yes,['Nicholas Marsh'],[],['James Hoffman']
+2024-06-04,AM,The Edge (Sports Hall 1),456,15,Elizabeth Jones,no,[],"['Alexandra Dennis', 'Amy Malone', 'Jason Roth', 'James Mitchell', 'Douglas Richard', 'Kevin Pratt', 'William Hoffman', 'Brandon Vance', 'Stacy Mills', 'Amanda Navarro', 'Dale Pearson', 'Alexandra Robinson', 'Cassandra Hunter', 'Sheila Bennett']","['Barbara Nelson', 'William Sanders', 'Ryan Barnett']"
+2024-06-04,AM,The Edge (Sports Hall 2),265,8,Erin Myers,no,[],"['Alan Kim', 'William Young', 'Dustin Kramer', 'Lindsey Greene', 'April Barrera', 'Jordan Russell', 'Suzanne Hamilton']","['Cynthia Johnson', 'Raymond Wiggins', 'Anthony Sanchez']"
+2024-06-04,AM,English SR 4 (LG.02) House 10 Cavendish Road,1,1,Leonard Welch,yes,[],[],['Andrea Taylor']
+2024-06-04,PM,Chemical and Process Engineering Cluster (GR.06),75,2,Melissa Jones,no,[],['Dustin Kramer'],"['Marie Rodriguez', 'Andrew Cervantes', 'Michael Deleon']"
+2024-06-04,PM,Chemistry Cluster (1.44),13,1,Sandra Martin,no,[],[],['Jason Lynch']
+2024-06-04,PM,Chemistry Cluster (1.44a),1,1,Barbara Nelson,yes,[],[],['Ashley Morgan']
+2024-06-04,PM,Cohen Computer Cluster A&B (1.40),93,3,Robert Banks,no,[],"['Jessica Yang', 'Amanda Phillips']","['Jennifer Navarro', 'Jason Bridges', 'Linda Page']"
+2024-06-04,PM,EC Stoner Cluster (6.61),1,1,Sara Ayers,no,[],[],['Justin James']
+2024-06-04,PM,EC Stoner Cluster (6.68),1,1,Kristi Fischer,no,[],[],['Melissa Dickerson']
+2024-06-04,PM,EC Stoner SR (7.70),13,4,Bryan Silva,yes,"['Nathaniel Faulkner', 'Patrick Diaz', 'William Henderson']",[],['Casey Williams']
+2024-06-04,PM,Fourman O and P Cluster (8.49),89,2,John Morales,no,[],['Robert Garcia'],"['Marisa Hall', 'Katherine Caldwell', 'Lisa Landry']"
+2024-06-04,PM,Irene Manton North Cluster (7.96),27,1,Dennis Nixon,no,[],[],['Kari Thornton']
+2024-06-04,PM,Irene Manton South Cluster (7.90),1,1,Amy Lara,no,[],[],['Jessica Yang']
+2024-06-04,PM,Michael Sadler SR (1.37),1,1,Eric Williams,yes,[],[],['Andrew Simmons']
+2024-06-04,PM,Michael Sadler SR (B.49),4,1,Shelley Frey,yes,[],[],['Raymond Wiggins']
+2024-06-04,PM,Michael Sadler SR (LG.10),26,1,Mia Burnett,no,[],[],['Mia Collins']
+2024-06-04,PM,Michael Sadler SR (LG.15),19,1,Douglas Richard,no,[],[],['Teresa Rojas']
+2024-06-04,PM,Michael Sadler World Cinema Rm (B.36),7,2,Ashley Morgan,yes,['Samuel Freeman'],[],['Eric Williams']
+2024-06-04,PM,Psychology Cluster (1.43),7,1,Stephanie Craig,no,[],[],['Richard Jones']
+2024-06-04,PM,Psychology Cluster (1.45),28,1,Brian Lozano,no,[],[],['Richard Freeman']
+2024-06-04,PM,Social Sciences SR (10.05),8,2,Nicole Smith,yes,['Jason Guzman'],[],['Linda Page']
+2024-06-04,PM,Social Sciences SR (10.06),9,3,Mark Graham,yes,"['Eric Gomez', 'Michael Hood']",[],['Robert Johnson MD']
+2024-06-04,PM,Social Sciences SR (10.10),7,2,Vanessa Soto,yes,['Kelly Walker'],[],['Kenneth Hunt']
+2024-06-04,PM,Textiles Computer Cluster (G.34),6,2,Jon Hanson,yes,['David Harris'],[],['Desiree Vazquez']
+2024-06-04,PM,The Edge (Sports Hall 1),527,17,Scott Ramirez,no,[],"['Riley Sanchez', 'Candace Hall', 'Ronnie Harris', 'Erin Smith', 'Jeffrey Villarreal', 'Steven Frank', 'Mr. Patrick Smith', 'Rebecca Kim', 'Benjamin Forbes', 'Christopher Henderson', 'Mark Garcia', 'William Young', 'Stacey Turner', 'Sandra Perez', 'Chase Colon', 'Ashley Robinson']","['Daniel Hancock', 'Michael Maxwell', 'Pamela Lyons']"
+2024-06-04,PM,West Teaching Lab Lower Cluster (B.16),1,1,Amber Baker,yes,[],[],['Thomas Johnson']
+2024-06-05,AM,Chemistry West Block SR (1.65),7,2,Michelle Blair,yes,['Brady Clark'],[],['Ray Ellison']
+2024-06-05,AM,Cohen Computer Cluster A&B (1.40),89,2,Cody Gallagher,no,[],['Jeffrey Stewart'],"['Debbie Brown', 'Jennifer Reynolds', 'Lisa Jones']"
+2024-06-05,AM,EC Stoner Cluster (6.61),22,1,Stacey Byrd,no,[],[],['Erin Diaz']
+2024-06-05,AM,English SR 1 (LG.04) House 10 Cavendish Road,6,2,Michael Dougherty,yes,['Anthony Cooke MD'],[],['Guy Freeman']
+2024-06-05,AM,English SR 7 (LG.05) House 5 Cavendish Road,4,1,Edgar Reeves,yes,[],[],['Jeremiah Marshall']
+2024-06-05,AM,Fourman O and P Cluster (8.49),72,2,Sabrina Cruz,no,[],['James Young'],"['Joshua Garcia', 'Melissa Russell', 'Andrew English']"
+2024-06-05,AM,Great Hall,160,5,Carla Woods,no,[],"['Diane Miller', 'Dustin Carter', 'Gary Phillips', 'Teresa Rojas']","['Maria Edwards DVM', 'Amanda Sharp', 'Anita Adkins']"
+2024-06-05,AM,Irene Manton North Cluster (7.96),8,1,Nicole Sanchez,no,[],[],['Natalie Davis']
+2024-06-05,AM,Irene Manton South Cluster (7.90),10,1,Daniel Salazar,no,[],[],['Stacey Turner']
+2024-06-05,AM,Michael Sadler SR (1.19),1,1,Timothy Santos,yes,[],[],['Adrian Riggs']
+2024-06-05,AM,Michael Sadler SR (1.37),1,1,Andrew Simmons,yes,[],[],['Nicholas Marsh']
+2024-06-05,AM,Michael Sadler SR (LG.15),28,1,Allen Sanchez,no,[],[],['Erin Johnson']
+2024-06-05,AM,Michael Sadler World Cinema Rm (B.36),8,2,Casey Horn,yes,['Kari Thornton'],[],['Jessica Herrera']
+2024-06-05,AM,Psychology Cluster (1.43),6,1,Cheryl Bradley,no,[],[],['Amanda Sharp']
+2024-06-05,AM,Psychology Cluster (1.45),13,1,Nicholas Miller,no,[],[],['Abigail Hobbs']
+2024-06-05,AM,Room UG09 (Great Hall Building),85,2,Yolanda Obrien,no,[],['Michael Jones'],"['Nicholas Jordan', 'Lindsay Sellers', 'John Mercer']"
+2024-06-05,AM,Social Sciences SR (10.05),7,2,Marissa Baker,yes,['Robert Banks'],[],['Angel Jones']
+2024-06-05,AM,Social Sciences SR (10.06),7,2,Thomas Velez,yes,['Scott Ramirez'],[],['Henry Burns']
+2024-06-05,AM,Social Sciences SR (10.07),10,3,Sharon Parker,yes,"['Nathan Webb', 'Jessica Herrera']",[],['Sierra Decker']
+2024-06-05,AM,Social Sciences SR (10.10),9,3,Angel Potter,yes,"['Jessica Blackwell', 'Michelle Gonzales']",[],['Nicole Barnes']
+2024-06-05,AM,Social Sciences SR (12.38),11,3,Brett Wright,yes,"['Nina Fisher', 'Sharon Oconnor']",[],['Brandon Morales']
+2024-06-05,AM,Textiles Computer Cluster (G.34),4,1,Anne Clark,yes,[],[],['Elizabeth Wells']
+2024-06-05,AM,The Edge (Sports Hall 1),510,17,Anna Nicholson,no,[],"['Emily Butler', 'Michelle Dunn', 'Mr. Cameron Knight', 'Nicholas Day', 'Rebecca Kim', 'Morgan Kemp', 'Kayla Moore', 'Marvin Roman', 'Kayla Bailey', 'Nathaniel House', 'Scott Mooney', 'Mrs. Betty Shannon', 'Robert Espinoza', 'Christopher Alvarado', 'Raymond Figueroa', 'Elizabeth Fox']","['Frances Nguyen', 'Curtis Mercado', 'Cody Gutierrez']"
+2024-06-05,AM,The Edge (Sports Hall 2),223,7,Justin James,no,[],"['Richard Jones', 'Andrew Hood', 'Kendra Hanson', 'Heather Hampton', 'Brittany Jones', 'Christopher Ferguson']","['Shane Hanna', 'Beth Miller', 'Melanie Giles']"
+2024-06-05,AM,Emmanuel Centre SR 01,1,1,Dwayne Wilson,yes,[],[],['Ryan Hart']
+2024-06-05,AM,Irene Manton North Cluster (7.96),1,1,Jennifer Miller,no,[],[],['Melinda Santana']
+2024-06-05,PM,EC Stoner SR (7.79),16,5,Roger Carter,yes,"['John Smith', 'Manuel Gay', 'Amanda Brown', 'Chelsea Rosales']",[],['Allison Howard']
+2024-06-05,PM,Emmanuel Centre SR 01,1,1,Christopher Hernandez,yes,[],[],['Ricky Terry']
+2024-06-05,PM,Emmanuel Centre SR 02,1,1,Melinda Santana,yes,[],[],['Devin Russo']
+2024-06-05,PM,Emmanuel Centre SR 03,1,1,Christopher Alvarado,yes,[],[],['James Castro']
+2024-06-05,PM,English SR 1 (LG.04) House 10 Cavendish Road,6,2,Linda Harmon,yes,['Elizabeth Donaldson'],[],['Benjamin Lynch']
+2024-06-05,PM,English SR 3 (LG.01) House 10 Cavendish Road,5,1,Joel Dominguez,yes,[],[],['Miss Cindy Villegas MD']
+2024-06-05,PM,Michael Sadler SR (B.37),5,1,Nancy Torres,yes,[],[],['Scott Ramirez']
+2024-06-05,PM,Michael Sadler SR (B.49),3,1,Clayton Johnson,yes,[],[],['Brandon Vance']
+2024-06-05,PM,Psychology Cluster (1.43),7,1,Robert Hill,no,[],[],['Tommy Aguilar']
+2024-06-05,PM,Room UG09 (Great Hall Building),75,2,John Lawson,no,[],['Brian Miller'],"['Theresa Benton', 'Amy Sherman', 'Miss Amanda Estrada']"
+2024-06-05,PM,Textiles Computer Cluster (G.34),2,1,Jeremiah Marshall,yes,[],[],['Lindsey Stephens']
+2024-06-05,PM,The Edge (Sports Hall 1),376,12,Andrew Simmons,no,[],"['Austin Smith Jr.', 'Matthew Parker', 'Angel Jones', 'Allison Howard', 'Alexandra Valencia', 'Christopher Neal', 'Jennifer Lopez', 'Jennifer Haynes', 'Justin Huff', 'Benjamin Hudson', 'Melissa Wolfe']","['Ruth Mcmillan', 'Gabriella Flores', 'Sharon Parker']"
+2024-06-06,AM,Chemistry West Block SR (G.75),6,2,Alicia Kelly,yes,['Kristen Gonzalez'],[],['Brady Clark']
+2024-06-06,AM,EC Stoner SR (7.79),24,8,Marvin Caldwell,yes,"['Luis Castillo', 'Dominic Hurst', 'Harry Garcia', 'Christopher Moreno', 'Nancy Torres', 'Sara Boone', 'Julie Russell']",[],['Heather Ross']
+2024-06-06,AM,Emmanuel Centre SR 04,1,1,Douglas Gonzalez,yes,[],[],['Kimberly Freeman']
+2024-06-06,AM,English SR 2 (LG.06) House 10 Cavendish Road,3,1,Denise Stanley,yes,[],[],['Raymond Hernandez']
+2024-06-06,AM,Great Hall,155,5,Tamara Chapman MD,no,[],"['Benjamin Forbes', 'Laura Ford', 'Jonathan Hunter', 'Bryan Stevenson']","['Charles Zimmerman', 'Ronnie Harris', 'Aimee Bailey']"
+2024-06-06,AM,Michael Sadler SR (1.19),1,1,Andrew West,yes,[],[],['Sarah Holloway']
+2024-06-06,AM,Michael Sadler SR (1.37),1,1,Darren Watkins,yes,[],[],['Brandon Dominguez']
+2024-06-06,AM,Michael Sadler SR (LG.10),74,2,Joshua Cummings,no,[],['Scott Johnston'],"['Kerri Sanchez', 'Jeffrey Stewart', 'Sara Lester']"
+2024-06-06,AM,Michael Sadler World Cinema Rm (B.36),6,2,Sean Hamilton,yes,['Lisa Phillips'],[],['Morgan Miranda']
+2024-06-06,AM,Newlyn SR (1.01),69,2,Kimberly Freeman,no,[],['Megan Hansen'],"['Richard Howell', 'Micheal Mason', 'Alexis Bernard']"
+2024-06-06,AM,Newlyn SR (1.07),54,1,Eric Gomez,no,[],[],"['Felicia Dean', 'Benjamin Trujillo', 'Natalie Davis']"
+2024-06-06,AM,Newlyn SR (GR.01),69,2,Tommy Aguilar,no,[],['Joshua Parker'],"['Kendra Hanson', 'Veronica Phillips', 'Jennifer Christina']"
+2024-06-06,AM,Newlyn SR (GR.07),69,2,Scott Hayes,no,[],['Frank Hale'],"['Samantha Hart', 'Yvonne Wiggins MD', 'Shelley Frey']"
+2024-06-06,AM,Parkinson SR (B.08),18,1,Susan Hernandez,no,[],[],['Danny Wilson']
+2024-06-06,AM,Parkinson SR (B.09),14,1,Riley Sanchez,no,[],[],['Benjamin Trujillo']
+2024-06-06,AM,Psychology Cluster (1.43),5,1,Richard Anderson,no,[],[],['Pamela Lyons']
+2024-06-06,AM,Psychology Cluster (1.45),9,1,Austin Sanchez,no,[],[],['Alicia Kelly']
+2024-06-06,AM,Room UG09 (Great Hall Building),94,3,James Jackson,no,[],"['Mr. Billy Cardenas', 'Stacy Tate']","['Anita Adkins', 'Joshua Cummings', 'Nicole Walker']"
+2024-06-06,AM,Social Sciences SR (10.05),5,1,Tracey Orozco,yes,[],[],['Jon Johnson']
+2024-06-06,AM,Social Sciences SR (10.10),7,2,Ashley Green,yes,['Barbara Cunningham'],[],['Melinda Bennett']
+2024-06-06,AM,Emmanuel Centre SR 01,1,1,Jack West,yes,[],[],['Christopher Wilson']
+2024-06-07,AM,Chemical and Process Engineering Cluster (GR.06),75,2,Matthew Lane,no,[],['Rebecca Diaz'],"['Vickie Rojas', 'Benjamin Lynch', 'Amanda Peterson']"
+2024-06-07,AM,Cohen Computer Cluster A&B (1.40),93,3,Ricardo Beard,no,[],"['Christopher Sherman', 'Alyssa Fuller']","['Katherine Robinson', 'Mary Serrano', 'Eric Serrano']"
+2024-06-07,AM,EC Stoner Cluster (6.61),21,1,Emma Carter,no,[],[],['Jason Baker']
+2024-06-07,AM,EC Stoner Cluster (6.68),1,1,Shane Cook,no,[],[],['Jennifer Mitchell']
+2024-06-07,AM,Emmanuel Centre SR 02,1,1,Mary Davis,yes,[],[],['Luis Robertson']
+2024-06-07,AM,Fourman O and P Cluster (8.49),77,2,Christian Atkinson,no,[],['Aaron Young'],"['Brandon Dominguez', 'Barbara Nelson', 'James Hoffman']"
+2024-06-07,AM,Great Hall,156,5,Brian Lozano,no,[],"['Steven Frank', 'Kelsey Hill', 'Shelby Walker', 'Thomas Hunter']","['Stephanie Washington', 'Andrew Hood', 'Matthew Hoffman']"
+2024-06-07,AM,Irene Manton North Cluster (7.96),4,1,Mr. Ronald Smith,no,[],[],['Megan Maynard']
+2024-06-07,AM,Parkinson SR (B.08),15,1,Linda Page,no,[],[],['Nicholas Pennington']
+2024-06-07,AM,Psychology Cluster (1.43),7,1,Debbie Brown,no,[],[],['Sarah Hughes']
+2024-06-07,AM,Psychology Cluster (1.45),17,1,Olivia Patrick,no,[],[],['Erin Smith']
+2024-06-07,AM,Social Sciences SR (10.05),5,1,Jeremiah Howard,yes,[],[],['John Smith']
+2024-06-07,AM,Social Sciences SR (10.06),9,3,Evan Boyle,yes,"['Paul Villa', 'Peggy Conley']",[],['Sara Allen']
+2024-06-07,AM,Textiles Computer Cluster (G.34),5,1,Lisa Conley,yes,[],[],['Ricky Salazar']
+2024-06-07,AM,Psychology Cluster (1.45),3,1,Amanda Peterson,no,[],[],['Kevin Robles']
+2024-06-07,PM,Chemical and Process Engineering Cluster (GR.06),75,2,Gregory Lindsey,no,[],['Michael Lang'],"['Keith Johnson', 'Jessica King', 'Brent Cole']"
+2024-06-07,PM,Cohen Computer Cluster A&B (1.40),93,3,Amanda Jackson,no,[],"['Douglas Cardenas', 'James Joyce']","['Mr. Bill Hoffman MD', 'Eugene Gibson', 'Jim Leon']"
+2024-06-07,PM,Fourman O and P Cluster (8.49),77,2,Jacqueline Willis,no,[],['Timothy George'],"['Brandi Cooper', 'Edward Kennedy', 'Shannon Randolph']"
+2024-06-07,PM,Psychology Cluster (1.43),21,1,Paula Johnson,no,[],[],['Denise Love']
+2024-06-07,PM,Psychology Cluster (1.45),1,1,Kevin Carey,no,[],[],['Alicia Brown']
+2024-06-07,PM,Textiles Computer Cluster (G.34),7,2,Susan Hernandez,yes,['Erin Diaz'],[],['Cheryl Flores']
