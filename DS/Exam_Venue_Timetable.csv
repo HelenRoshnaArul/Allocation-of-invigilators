@@ -1,0 +1,656 @@
+Exam_Date,Exam_Time,TimeSlot,Venue_Name,Capacity,Special_Requirement
+20-May-24,09:00,AM,Chemical and Process Engineering Cluster (GR.06),1,0
+20-May-24,09:00,AM,Chemistry West Block SR (1.65),7,1
+20-May-24,09:00,AM,Cohen Computer Cluster A&B (1.40),68,0
+20-May-24,09:00,AM,Conference Gallery,90,0
+20-May-24,09:00,AM,EC Stoner Cluster (6.61),13,0
+20-May-24,09:00,AM,EC Stoner Cluster (6.68),42,0
+20-May-24,09:00,AM,Emmanuel Centre SR 01,1,1
+20-May-24,09:00,AM,Emmanuel Centre SR 02,1,1
+20-May-24,09:00,AM,Emmanuel Centre SR 04,1,1
+20-May-24,09:00,AM,Emmanuel Centre SR 06,1,1
+20-May-24,09:00,AM,Emmanuel Centre SR 07,1,1
+20-May-24,09:00,AM,English SR 1 (LG.04) House 10 Cavendish Road,6,1
+20-May-24,09:00,AM,English SR 2 (LG.06) House 10 Cavendish Road,2,1
+20-May-24,09:00,AM,English SR 3 (LG.01) House 10 Cavendish Road,4,1
+20-May-24,09:00,AM,English SR 4 (LG.02) House 10 Cavendish Road,4,1
+20-May-24,09:00,AM,English SR 7 (LG.05) House 5 Cavendish Road,3,1
+20-May-24,09:00,AM,Great Hall,155,0
+20-May-24,09:00,AM,Irene Manton South Cluster (7.90),1,0
+20-May-24,09:00,AM,Michael Sadler SR (1.19),1,1
+20-May-24,09:00,AM,Michael Sadler SR (1.37),1,1
+20-May-24,09:00,AM,Michael Sadler SR (2.01),1,1
+20-May-24,09:00,AM,Michael Sadler SR (3.40),1,1
+20-May-24,09:00,AM,Michael Sadler SR (B.49),3,1
+20-May-24,09:00,AM,Michael Sadler World Cinema Rm (B.36),7,1
+20-May-24,09:00,AM,Newlyn SR (GR.01),69,0
+20-May-24,09:00,AM,Psychology Cluster (1.43),17,0
+20-May-24,09:00,AM,Psychology Cluster (1.45),1,0
+20-May-24,09:00,AM,Room UG09 (Great Hall Building),87,0
+20-May-24,09:00,AM,Social Sciences SR (10.05),10,1
+20-May-24,09:00,AM,Social Sciences SR (10.06),8,1
+20-May-24,09:00,AM,Social Sciences SR (10.07),9,1
+20-May-24,09:00,AM,Social Sciences SR (12.38),11,1
+20-May-24,09:00,AM,Textiles Computer Cluster (G.34),10,1
+20-May-24,09:00,AM,The Edge (Sports Hall 1),536,0
+20-May-24,09:00,AM,The Edge (Sports Hall 2),270,0
+20-May-24,10:00,AM,Emmanuel Centre SR 03,1,1
+20-May-24,10:00,AM,Social Sciences SR (10.07),1,1
+20-May-24,10:00,AM,Social Sciences SR (12.38),1,1
+20-May-24,14:00,PM,Chemistry West Block SR (1.65),5,1
+20-May-24,14:00,PM,Chemistry West Block SR (G.75),8,1
+20-May-24,14:00,PM,EC Stoner Cluster (6.61),3,0
+20-May-24,14:00,PM,EC Stoner Cluster (6.68),8,0
+20-May-24,14:00,PM,EC Stoner SR (7.79),18,1
+20-May-24,14:00,PM,Emmanuel Centre SR 01,1,1
+20-May-24,14:00,PM,Emmanuel Centre SR 02,1,1
+20-May-24,14:00,PM,Emmanuel Centre SR 03,1,1
+20-May-24,14:00,PM,Emmanuel Centre SR 10,8,1
+20-May-24,14:00,PM,English SR 1 (LG.04) House 10 Cavendish Road,5,1
+20-May-24,14:00,PM,English SR 3 (LG.01) House 10 Cavendish Road,5,1
+20-May-24,14:00,PM,English SR 4 (LG.02) House 10 Cavendish Road,3,1
+20-May-24,14:00,PM,Great Hall,155,0
+20-May-24,14:00,PM,Michael Sadler SR (B.37),6,1
+20-May-24,14:00,PM,Michael Sadler SR (B.49),3,1
+20-May-24,14:00,PM,Michael Sadler SR (LG.15),25,0
+20-May-24,14:00,PM,Michael Sadler World Cinema Rm (B.36),6,1
+20-May-24,14:00,PM,Newlyn SR (1.01),67,0
+20-May-24,14:00,PM,Newlyn SR (GR.01),68,0
+20-May-24,14:00,PM,Newlyn SR (GR.07),68,0
+20-May-24,14:00,PM,Psychology Cluster (1.43),21,0
+20-May-24,14:00,PM,Psychology Cluster (1.45),4,0
+20-May-24,14:00,PM,Social Sciences SR (10.05),9,1
+20-May-24,14:00,PM,Social Sciences SR (10.06),11,1
+20-May-24,14:00,PM,Social Sciences SR (10.07),9,1
+20-May-24,14:00,PM,Social Sciences SR (10.10),7,1
+20-May-24,14:00,PM,Textiles Computer Cluster (G.34),4,1
+20-May-24,14:00,PM,The Edge (Sports Hall 1),490,0
+20-May-24,14:00,PM,The Edge (Sports Hall 2),296,0
+21-May-24,09:00,AM,Chemistry West Block SR (1.65),8,1
+21-May-24,09:00,AM,Chemistry West Block SR (G.75),6,1
+21-May-24,09:00,AM,Cohen Computer Cluster A&B (1.40),49,0
+21-May-24,09:00,AM,EC Stoner Cluster (6.61),2,0
+21-May-24,09:00,AM,EC Stoner Cluster (6.68),1,0
+21-May-24,09:00,AM,EC Stoner SR (7.70),12,1
+21-May-24,09:00,AM,EC Stoner SR (7.78),10,1
+21-May-24,09:00,AM,EC Stoner SR (7.79),3,1
+21-May-24,09:00,AM,Emmanuel Centre SR 01,1,1
+21-May-24,09:00,AM,Emmanuel Centre SR 02,1,1
+21-May-24,09:00,AM,English SR 1 (LG.04) House 10 Cavendish Road,6,1
+21-May-24,09:00,AM,English SR 2 (LG.06) House 10 Cavendish Road,2,1
+21-May-24,09:00,AM,English SR 4 (LG.02) House 10 Cavendish Road,4,1
+21-May-24,09:00,AM,English SR 7 (LG.05) House 5 Cavendish Road,2,1
+21-May-24,09:00,AM,Great Hall,120,0
+21-May-24,09:00,AM,Irene Manton North Cluster (7.96),4,0
+21-May-24,09:00,AM,Irene Manton South Cluster (7.90),4,0
+21-May-24,09:00,AM,Martin Thomas Translation Lab 1 (1.30),15,0
+21-May-24,09:00,AM,Martin Thomas Translation Lab 2 (1.30a),2,0
+21-May-24,09:00,AM,Michael Sadler SR (1.19),1,1
+21-May-24,09:00,AM,Michael Sadler SR (B.37),6,1
+21-May-24,09:00,AM,Michael Sadler SR (B.49),2,1
+21-May-24,09:00,AM,Michael Sadler SR (LG.10),65,0
+21-May-24,09:00,AM,Michael Sadler SR (LG.15),40,0
+21-May-24,09:00,AM,Parkinson SR (B.08),20,0
+21-May-24,09:00,AM,Parkinson SR (B.09),8,0
+21-May-24,09:00,AM,Psychology Cluster (1.43),13,0
+21-May-24,09:00,AM,Psychology Cluster (1.45),3,0
+21-May-24,09:00,AM,Room UG09 (Great Hall Building),63,0
+21-May-24,09:00,AM,Social Sciences SR (10.06),2,1
+21-May-24,09:00,AM,Social Sciences SR (10.10),7,1
+21-May-24,09:00,AM,Social Sciences SR (12.38),10,1
+21-May-24,09:00,AM,Textiles Computer Cluster (G.34),5,1
+21-May-24,09:00,AM,The Edge (Sports Hall 1),478,0
+21-May-24,09:00,AM,The Edge (Sports Hall 2),287,0
+21-May-24,14:00,PM,Cohen Computer Cluster A&B (1.40),49,0
+21-May-24,14:00,PM,Conference Gallery,91,0
+21-May-24,14:00,PM,EC Stoner Cluster (6.68),17,0
+21-May-24,14:00,PM,Emmanuel Centre SR 02,1,1
+21-May-24,14:00,PM,Emmanuel Centre SR 03,1,1
+21-May-24,14:00,PM,Emmanuel Centre SR 04,1,1
+21-May-24,14:00,PM,Emmanuel Centre SR 05,1,1
+21-May-24,14:00,PM,Great Hall,148,0
+21-May-24,14:00,PM,Irene Manton North Cluster (7.96),3,0
+21-May-24,14:00,PM,Irene Manton South Cluster (7.90),4,0
+21-May-24,14:00,PM,Michael Sadler SR (B.37),3,1
+21-May-24,14:00,PM,Michael Sadler SR (B.49),2,1
+21-May-24,14:00,PM,Michael Sadler SR (LG.10),53,0
+21-May-24,14:00,PM,Michael Sadler SR (LG.15),41,0
+21-May-24,14:00,PM,Michael Sadler World Cinema Rm (B.36),1,1
+21-May-24,14:00,PM,Newlyn SR (GR.01),68,0
+21-May-24,14:00,PM,Newlyn SR (GR.07),68,0
+21-May-24,14:00,PM,Psychology Cluster (1.43),10,0
+21-May-24,14:00,PM,Psychology Cluster (1.45),11,0
+21-May-24,14:00,PM,Room UG09 (Great Hall Building),95,0
+21-May-24,14:00,PM,Social Sciences SR (10.05),9,1
+21-May-24,14:00,PM,Social Sciences SR (10.06),8,1
+21-May-24,14:00,PM,Social Sciences SR (10.10),9,1
+21-May-24,14:00,PM,Social Sciences SR (12.38),12,1
+21-May-24,14:00,PM,Textiles Computer Cluster (G.34),4,1
+21-May-24,14:00,PM,The Edge (Sports Hall 1),475,0
+21-May-24,14:00,PM,The Edge (Sports Hall 2),298,0
+22-May-24,09:00,AM,Conference Gallery,82,0
+22-May-24,09:00,AM,EC Stoner SR (7.70),10,1
+22-May-24,09:00,AM,EC Stoner SR (7.78),7,1
+22-May-24,09:00,AM,Emmanuel Centre SR 01,1,1
+22-May-24,09:00,AM,Emmanuel Centre SR 02,1,1
+22-May-24,09:00,AM,Emmanuel Centre SR 03,1,1
+22-May-24,09:00,AM,Emmanuel Centre SR 04,1,1
+22-May-24,09:00,AM,Emmanuel Centre SR 05,1,1
+22-May-24,09:00,AM,Emmanuel Centre SR 10,6,1
+22-May-24,09:00,AM,Emmanuel Centre SR 11,7,1
+22-May-24,09:00,AM,English SR 1 (LG.04) House 10 Cavendish Road,5,1
+22-May-24,09:00,AM,English SR 2 (LG.06) House 10 Cavendish Road,4,1
+22-May-24,09:00,AM,English SR 3 (LG.01) House 10 Cavendish Road,2,1
+22-May-24,09:00,AM,English SR 7 (LG.05) House 5 Cavendish Road,3,1
+22-May-24,09:00,AM,Great Hall,132,0
+22-May-24,09:00,AM,Irene Manton North Cluster (7.96),4,0
+22-May-24,09:00,AM,Michael Sadler SR (1.19),1,1
+22-May-24,09:00,AM,Michael Sadler SR (LG.10),43,0
+22-May-24,09:00,AM,Psychology Cluster (1.43),7,0
+22-May-24,09:00,AM,Psychology Cluster (1.45),18,0
+22-May-24,09:00,AM,Room UG09 (Great Hall Building),83,0
+22-May-24,09:00,AM,Social Sciences SR (10.05),7,1
+22-May-24,09:00,AM,Social Sciences SR (10.07),10,1
+22-May-24,09:00,AM,Social Sciences SR (10.10),6,1
+22-May-24,09:00,AM,Social Sciences SR (12.38),10,1
+22-May-24,09:00,AM,Textiles Computer Cluster (G.34),5,1
+22-May-24,09:00,AM,The Edge (Sports Hall 1),522,0
+22-May-24,09:00,AM,The Edge (Sports Hall 2),214,0
+22-May-24,10:00,AM,EC Stoner SR (7.70),1,1
+22-May-24,10:00,AM,EC Stoner SR (7.78),1,1
+22-May-24,14:00,PM,Chemistry West Block SR (G.75),6,1
+22-May-24,14:00,PM,EC Stoner Cluster (6.68),8,0
+22-May-24,14:00,PM,EC Stoner SR (7.70),13,1
+22-May-24,14:00,PM,EC Stoner SR (7.78),11,1
+22-May-24,14:00,PM,EC Stoner SR (7.79),15,1
+22-May-24,14:00,PM,Emmanuel Centre SR 01,1,1
+22-May-24,14:00,PM,Emmanuel Centre SR 10,7,1
+22-May-24,14:00,PM,English SR 1 (LG.04) House 10 Cavendish Road,5,1
+22-May-24,14:00,PM,English SR 2 (LG.06) House 10 Cavendish Road,4,1
+22-May-24,14:00,PM,English SR 3 (LG.01) House 10 Cavendish Road,3,1
+22-May-24,14:00,PM,English SR 4 (LG.02) House 10 Cavendish Road,4,1
+22-May-24,14:00,PM,Great Hall,133,0
+22-May-24,14:00,PM,Martin Thomas Translation Lab 1 (1.30),12,0
+22-May-24,14:00,PM,Martin Thomas Translation Lab 2 (1.30a),3,0
+22-May-24,14:00,PM,Michael Sadler SR (1.19),1,1
+22-May-24,14:00,PM,Michael Sadler SR (1.37),1,1
+22-May-24,14:00,PM,Michael Sadler SR (2.01),1,1
+22-May-24,14:00,PM,Michael Sadler SR (LG.10),21,0
+22-May-24,14:00,PM,Michael Sadler SR (LG.15),13,0
+22-May-24,14:00,PM,Michael Sadler World Cinema Rm (B.36),6,1
+22-May-24,14:00,PM,Psychology Cluster (1.43),22,0
+22-May-24,14:00,PM,Psychology Cluster (1.45),4,0
+22-May-24,14:00,PM,Room UG09 (Great Hall Building),95,0
+22-May-24,14:00,PM,Social Sciences SR (10.07),6,1
+22-May-24,14:00,PM,Textiles Computer Cluster (G.34),7,1
+22-May-24,14:00,PM,The Edge (Sports Hall 1),521,0
+22-May-24,14:00,PM,The Edge (Sports Hall 2),284,0
+23-May-24,09:00,AM,Cohen Computer Cluster A&B (1.40),93,0
+23-May-24,09:00,AM,Conference Gallery,43,0
+23-May-24,09:00,AM,EC Stoner Cluster (6.61),40,0
+23-May-24,09:00,AM,EC Stoner Cluster (6.68),43,0
+23-May-24,09:00,AM,Emmanuel Centre SR 02,1,1
+23-May-24,09:00,AM,Emmanuel Centre SR 10,3,1
+23-May-24,09:00,AM,Emmanuel Centre SR 11,8,1
+23-May-24,09:00,AM,English SR 1 (LG.04) House 10 Cavendish Road,5,1
+23-May-24,09:00,AM,English SR 3 (LG.01) House 10 Cavendish Road,4,1
+23-May-24,09:00,AM,Fourman O and P Cluster (8.49),92,0
+23-May-24,09:00,AM,Great Hall,145,0
+23-May-24,09:00,AM,Irene Manton North Cluster (7.96),4,0
+23-May-24,09:00,AM,Irene Manton South Cluster (7.90),1,0
+23-May-24,09:00,AM,Michael Sadler SR (1.19),1,1
+23-May-24,09:00,AM,Michael Sadler SR (B.37),3,1
+23-May-24,09:00,AM,Michael Sadler SR (B.49),3,1
+23-May-24,09:00,AM,Michael Sadler SR (LG.10),54,0
+23-May-24,09:00,AM,Michael Sadler World Cinema Rm (B.36),7,1
+23-May-24,09:00,AM,Psychology Cluster (1.43),15,0
+23-May-24,09:00,AM,Psychology Cluster (1.45),20,0
+23-May-24,09:00,AM,Room UG09 (Great Hall Building),94,0
+23-May-24,09:00,AM,Social Sciences SR (10.05),7,1
+23-May-24,09:00,AM,Social Sciences SR (10.07),7,1
+23-May-24,09:00,AM,Social Sciences SR (10.10),4,1
+23-May-24,09:00,AM,Textiles Computer Cluster (G.34),9,1
+23-May-24,09:00,AM,The Edge (Sports Hall 1),309,0
+23-May-24,09:00,AM,The Edge (Sports Hall 2),201,0
+23-May-24,14:00,PM,Cohen Computer Cluster A&B (1.40),55,0
+23-May-24,14:00,PM,Emmanuel Centre SR 01,1,1
+23-May-24,14:00,PM,English SR 2 (LG.06) House 10 Cavendish Road,3,1
+23-May-24,14:00,PM,English SR 3 (LG.01) House 10 Cavendish Road,4,1
+23-May-24,14:00,PM,Michael Sadler SR (1.19),1,1
+23-May-24,14:00,PM,Michael Sadler SR (2.01),1,1
+23-May-24,14:00,PM,Michael Sadler SR (LG.10),36,0
+23-May-24,14:00,PM,Michael Sadler SR (LG.15),26,0
+23-May-24,14:00,PM,Psychology Cluster (1.43),8,0
+23-May-24,14:00,PM,Psychology Cluster (1.45),10,0
+23-May-24,14:00,PM,Social Sciences SR (10.06),5,1
+23-May-24,14:00,PM,Social Sciences SR (10.07),5,1
+23-May-24,14:00,PM,Social Sciences SR (10.10),8,1
+23-May-24,14:00,PM,Social Sciences SR (12.38),11,1
+23-May-24,14:00,PM,Textiles Computer Cluster (G.34),4,1
+23-May-24,14:00,PM,The Edge (Sports Hall 1),509,0
+23-May-24,14:00,PM,The Edge (Sports Hall 2),287,0
+24-May-24,09:00,AM,Chemistry West Block SR (1.65),7,1
+24-May-24,09:00,AM,Chemistry West Block SR (G.75),4,1
+24-May-24,09:00,AM,Cohen Computer Cluster A&B (1.40),83,0
+24-May-24,09:00,AM,EC Stoner Cluster (6.61),1,0
+24-May-24,09:00,AM,EC Stoner Cluster (6.68),40,0
+24-May-24,09:00,AM,EC Stoner SR (7.79),16,1
+24-May-24,09:00,AM,Emmanuel Centre SR 02,1,1
+24-May-24,09:00,AM,Emmanuel Centre SR 04,1,1
+24-May-24,09:00,AM,Emmanuel Centre SR 05,1,1
+24-May-24,09:00,AM,Emmanuel Centre SR 10,6,1
+24-May-24,09:00,AM,Emmanuel Centre SR 11,8,1
+24-May-24,09:00,AM,English SR 1 (LG.04) House 10 Cavendish Road,5,1
+24-May-24,09:00,AM,English SR 2 (LG.06) House 10 Cavendish Road,2,1
+24-May-24,09:00,AM,English SR 7 (LG.05) House 5 Cavendish Road,3,1
+24-May-24,09:00,AM,Fourman O and P Cluster (8.49),90,0
+24-May-24,09:00,AM,Great Hall,158,0
+24-May-24,09:00,AM,Irene Manton North Cluster (7.96),19,0
+24-May-24,09:00,AM,Irene Manton South Cluster (7.90),17,0
+24-May-24,09:00,AM,Michael Sadler SR (1.19),1,1
+24-May-24,09:00,AM,Michael Sadler SR (LG.10),70,0
+24-May-24,09:00,AM,Michael Sadler SR (LG.15),40,0
+24-May-24,09:00,AM,Michael Sadler World Cinema Rm (B.36),6,1
+24-May-24,09:00,AM,Newlyn SR (GR.01),51,0
+24-May-24,09:00,AM,Newlyn SR (GR.07),40,0
+24-May-24,09:00,AM,Parkinson SR (B.09),12,0
+24-May-24,09:00,AM,Psychology Cluster (1.43),9,0
+24-May-24,09:00,AM,Psychology Cluster (1.45),6,0
+24-May-24,09:00,AM,Room UG09 (Great Hall Building),82,0
+24-May-24,09:00,AM,Social Sciences SR (10.05),10,1
+24-May-24,09:00,AM,Social Sciences SR (10.06),9,1
+24-May-24,09:00,AM,Social Sciences SR (12.38),10,1
+24-May-24,09:00,AM,Textiles Computer Cluster (G.34),4,1
+24-May-24,09:00,AM,The Edge (Sports Hall 1),512,0
+24-May-24,09:00,AM,The Edge (Sports Hall 2),235,0
+24-May-24,10:00,AM,Emmanuel Centre SR 01,1,1
+24-May-24,10:00,AM,English SR 2 (LG.06) House 10 Cavendish Road,1,1
+24-May-24,14:00,PM,Chemistry West Block SR (1.65),7,1
+24-May-24,14:00,PM,Chemistry West Block SR (G.75),5,1
+24-May-24,14:00,PM,EC Stoner Cluster (6.61),8,0
+24-May-24,14:00,PM,EC Stoner Cluster (6.68),22,0
+24-May-24,14:00,PM,EC Stoner SR (7.70),12,1
+24-May-24,14:00,PM,EC Stoner SR (7.78),7,1
+24-May-24,14:00,PM,EC Stoner SR (7.79),20,1
+24-May-24,14:00,PM,Emmanuel Centre SR 01,1,1
+24-May-24,14:00,PM,Emmanuel Centre SR 02,1,1
+24-May-24,14:00,PM,Emmanuel Centre SR 10,5,1
+24-May-24,14:00,PM,Great Hall,98,0
+24-May-24,14:00,PM,Irene Manton North Cluster (7.96),4,0
+24-May-24,14:00,PM,Michael Sadler SR (1.19),1,1
+24-May-24,14:00,PM,Michael Sadler SR (1.37),1,1
+24-May-24,14:00,PM,Michael Sadler SR (2.01),1,1
+24-May-24,14:00,PM,Michael Sadler SR (B.37),6,1
+24-May-24,14:00,PM,Michael Sadler World Cinema Rm (B.36),5,1
+24-May-24,14:00,PM,Parkinson SR (B.08),17,0
+24-May-24,14:00,PM,Parkinson SR (B.09),6,0
+24-May-24,14:00,PM,Psychology Cluster (1.43),10,0
+24-May-24,14:00,PM,Psychology Cluster (1.45),1,0
+24-May-24,14:00,PM,Room UG09 (Great Hall Building),95,0
+24-May-24,14:00,PM,Social Sciences SR (10.05),7,1
+24-May-24,14:00,PM,Social Sciences SR (10.06),8,1
+24-May-24,14:00,PM,Social Sciences SR (10.10),4,1
+24-May-24,14:00,PM,Social Sciences SR (12.38),10,1
+24-May-24,14:00,PM,Textiles Computer Cluster (G.34),4,1
+24-May-24,14:00,PM,The Edge (Sports Hall 1),527,0
+24-May-24,14:00,PM,The Edge (Sports Hall 2),258,0
+29-May-24,09:00,AM,Chemistry West Block SR (1.65),9,1
+29-May-24,09:00,AM,Chemistry West Block SR (1.80),10,0
+29-May-24,09:00,AM,Chemistry West Block SR (G.75),9,1
+29-May-24,09:00,AM,EC Stoner Cluster (6.61),22,0
+29-May-24,09:00,AM,EC Stoner SR (7.70),12,1
+29-May-24,09:00,AM,EC Stoner SR (7.78),13,1
+29-May-24,09:00,AM,EC Stoner SR (7.79),10,1
+29-May-24,09:00,AM,Emmanuel Centre SR 01,1,1
+29-May-24,09:00,AM,Emmanuel Centre SR 02,1,1
+29-May-24,09:00,AM,Emmanuel Centre SR 03,1,1
+29-May-24,09:00,AM,Emmanuel Centre SR 04,1,1
+29-May-24,09:00,AM,Emmanuel Centre SR 05,1,1
+29-May-24,09:00,AM,Emmanuel Centre SR 06,1,1
+29-May-24,09:00,AM,Emmanuel Centre SR 07,1,1
+29-May-24,09:00,AM,Emmanuel Centre SR 08,1,1
+29-May-24,09:00,AM,English SR 2 (LG.06) House 10 Cavendish Road,5,1
+29-May-24,09:00,AM,Fourman O and P Cluster (8.49),91,0
+29-May-24,09:00,AM,Great Hall,151,0
+29-May-24,09:00,AM,Irene Manton South Cluster (7.90),5,0
+29-May-24,09:00,AM,Michael Sadler SR (1.19),1,1
+29-May-24,09:00,AM,Michael Sadler SR (1.37),1,1
+29-May-24,09:00,AM,Michael Sadler SR (2.01),1,1
+29-May-24,09:00,AM,Michael Sadler SR (B.37),5,1
+29-May-24,09:00,AM,Michael Sadler SR (LG.10),71,0
+29-May-24,09:00,AM,Michael Sadler SR (LG.15),40,0
+29-May-24,09:00,AM,Michael Sadler World Cinema Rm (B.36),3,1
+29-May-24,09:00,AM,Psychology Cluster (1.43),21,0
+29-May-24,09:00,AM,Psychology Cluster (1.45),7,0
+29-May-24,09:00,AM,Room UG09 (Great Hall Building),56,0
+29-May-24,09:00,AM,Social Sciences SR (12.38),12,1
+29-May-24,09:00,AM,Textiles Computer Cluster (G.34),5,1
+29-May-24,09:00,AM,The Edge (Sports Hall 1),497,0
+29-May-24,09:00,AM,The Edge (Sports Hall 2),234,0
+29-May-24,14:00,PM,EC Stoner Cluster (6.68),22,0
+29-May-24,14:00,PM,EC Stoner SR (7.78),5,1
+29-May-24,14:00,PM,EC Stoner SR (7.79),16,1
+29-May-24,14:00,PM,Emmanuel Centre SR 01,1,1
+29-May-24,14:00,PM,Fourman O and P Cluster (8.49),55,0
+29-May-24,14:00,PM,Great Hall,140,0
+29-May-24,14:00,PM,Irene Manton North Cluster (7.96),21,0
+29-May-24,14:00,PM,Martin Thomas Translation Lab 1 (1.30),17,0
+29-May-24,14:00,PM,Martin Thomas Translation Lab 2 (1.30a),3,0
+29-May-24,14:00,PM,Michael Sadler SR (LG.10),67,0
+29-May-24,14:00,PM,Psychology Cluster (1.43),8,0
+29-May-24,14:00,PM,Psychology Cluster (1.45),13,0
+29-May-24,14:00,PM,Social Sciences SR (10.05),10,1
+29-May-24,14:00,PM,Social Sciences SR (10.06),4,1
+29-May-24,14:00,PM,Social Sciences SR (12.38),8,1
+29-May-24,14:00,PM,Textiles Computer Cluster (G.34),4,1
+29-May-24,14:00,PM,The Edge (Sports Hall 1),514,0
+29-May-24,14:00,PM,The Edge (Sports Hall 2),171,0
+30-May-24,09:00,AM,Chemical and Process Engineering Cluster (GR.06),59,0
+30-May-24,09:00,AM,Cohen Computer Cluster A&B (1.40),90,0
+30-May-24,09:00,AM,EC Stoner Cluster (6.61),37,0
+30-May-24,09:00,AM,EC Stoner Cluster (6.68),43,0
+30-May-24,09:00,AM,EC Stoner SR (7.70),13,1
+30-May-24,09:00,AM,EC Stoner SR (7.78),7,1
+30-May-24,09:00,AM,EC Stoner SR (7.79),20,1
+30-May-24,09:00,AM,Emmanuel Centre SR 01,1,1
+30-May-24,09:00,AM,Fourman O and P Cluster (8.49),100,0
+30-May-24,09:00,AM,Great Hall,78,0
+30-May-24,09:00,AM,Irene Manton North Cluster (7.96),5,0
+30-May-24,09:00,AM,Irene Manton South Cluster (7.90),26,0
+30-May-24,09:00,AM,Michael Sadler SR (1.19),1,1
+30-May-24,09:00,AM,Michael Sadler SR (B.49),3,1
+30-May-24,09:00,AM,Michael Sadler World Cinema Rm (B.36),7,1
+30-May-24,09:00,AM,Psychology Cluster (1.43),8,0
+30-May-24,09:00,AM,Psychology Cluster (1.45),11,0
+30-May-24,09:00,AM,Room UG09 (Great Hall Building),76,0
+30-May-24,09:00,AM,Social Sciences SR (10.10),8,1
+30-May-24,09:00,AM,Textiles Computer Cluster (G.34),5,1
+30-May-24,09:00,AM,The Edge (Sports Hall 1),479,0
+30-May-24,09:00,AM,The Edge (Sports Hall 2),288,0
+30-May-24,10:00,AM,Irene Manton North Cluster (7.96),1,0
+30-May-24,14:00,PM,Chemical and Process Engineering Cluster (GR.06),75,0
+30-May-24,14:00,PM,Chemistry West Block SR (1.80),12,0
+30-May-24,14:00,PM,Cohen Computer Cluster A&B (1.40),39,0
+30-May-24,14:00,PM,Conference Gallery,91,0
+30-May-24,14:00,PM,EC Stoner Cluster (6.61),37,0
+30-May-24,14:00,PM,EC Stoner Cluster (6.68),43,0
+30-May-24,14:00,PM,EC Stoner SR (7.78),8,1
+30-May-24,14:00,PM,EC Stoner SR (7.79),14,1
+30-May-24,14:00,PM,Emmanuel Centre SR 01,1,1
+30-May-24,14:00,PM,Emmanuel Centre SR 02,1,1
+30-May-24,14:00,PM,Emmanuel Centre SR 03,1,1
+30-May-24,14:00,PM,Emmanuel Centre SR 04,1,1
+30-May-24,14:00,PM,Emmanuel Centre SR 05,1,1
+30-May-24,14:00,PM,English SR 1 (LG.04) House 10 Cavendish Road,5,1
+30-May-24,14:00,PM,English SR 2 (LG.06) House 10 Cavendish Road,4,1
+30-May-24,14:00,PM,English SR 3 (LG.01) House 10 Cavendish Road,3,1
+30-May-24,14:00,PM,English SR 4 (LG.02) House 10 Cavendish Road,1,1
+30-May-24,14:00,PM,Fourman O and P Cluster (8.49),84,0
+30-May-24,14:00,PM,Great Hall,140,0
+30-May-24,14:00,PM,Irene Manton North Cluster (7.96),14,0
+30-May-24,14:00,PM,Irene Manton South Cluster (7.90),12,0
+30-May-24,14:00,PM,Michael Sadler SR (1.19),1,1
+30-May-24,14:00,PM,Michael Sadler SR (1.37),1,1
+30-May-24,14:00,PM,Michael Sadler SR (LG.10),29,0
+30-May-24,14:00,PM,Michael Sadler SR (LG.15),23,0
+30-May-24,14:00,PM,Newlyn SR (1.01),68,0
+30-May-24,14:00,PM,Newlyn SR (1.07),50,0
+30-May-24,14:00,PM,Newlyn SR (GR.01),68,0
+30-May-24,14:00,PM,Newlyn SR (GR.07),68,0
+30-May-24,14:00,PM,Psychology Cluster (1.43),4,0
+30-May-24,14:00,PM,Psychology Cluster (1.45),10,0
+30-May-24,14:00,PM,Room UG09 (Great Hall Building),95,0
+30-May-24,14:00,PM,Social Sciences SR (10.05),6,1
+30-May-24,14:00,PM,Social Sciences SR (10.06),6,1
+30-May-24,14:00,PM,Social Sciences SR (10.07),10,1
+30-May-24,14:00,PM,Social Sciences SR (10.10),9,1
+30-May-24,14:00,PM,Textiles Computer Cluster (G.34),7,1
+30-May-24,14:00,PM,The Edge (Sports Hall 1),396,0
+30-May-24,14:00,PM,The Edge (Sports Hall 2),210,0
+31-May-24,09:00,AM,Chemical and Process Engineering Cluster (GR.06),55,0
+31-May-24,09:00,AM,Cohen Computer Cluster A&B (1.40),92,0
+31-May-24,09:00,AM,EC Stoner Cluster (6.61),5,0
+31-May-24,09:00,AM,EC Stoner Cluster (6.68),39,0
+31-May-24,09:00,AM,EC Stoner SR (7.78),12,1
+31-May-24,09:00,AM,EC Stoner SR (7.79),17,1
+31-May-24,09:00,AM,Emmanuel Centre SR 01,1,1
+31-May-24,09:00,AM,Emmanuel Centre SR 02,1,1
+31-May-24,09:00,AM,Emmanuel Centre SR 03,1,1
+31-May-24,09:00,AM,Emmanuel Centre SR 10,1,1
+31-May-24,09:00,AM,English SR 1 (LG.04) House 10 Cavendish Road,8,1
+31-May-24,09:00,AM,English SR 3 (LG.01) House 10 Cavendish Road,5,1
+31-May-24,09:00,AM,Fourman O and P Cluster (8.49),58,0
+31-May-24,09:00,AM,Great Hall,113,0
+31-May-24,09:00,AM,Michael Sadler SR (1.19),1,1
+31-May-24,09:00,AM,Michael Sadler SR (1.37),1,1
+31-May-24,09:00,AM,Michael Sadler SR (2.01),1,1
+31-May-24,09:00,AM,Michael Sadler SR (B.37),6,1
+31-May-24,09:00,AM,Michael Sadler SR (B.49),4,1
+31-May-24,09:00,AM,Michael Sadler SR (LG.10),61,0
+31-May-24,09:00,AM,Michael Sadler World Cinema Rm (B.36),8,1
+31-May-24,09:00,AM,Newlyn SR (GR.01),68,0
+31-May-24,09:00,AM,Newlyn SR (GR.07),33,0
+31-May-24,09:00,AM,Psychology Cluster (1.43),13,0
+31-May-24,09:00,AM,Psychology Cluster (1.45),34,0
+31-May-24,09:00,AM,Room UG09 (Great Hall Building),87,0
+31-May-24,09:00,AM,Social Sciences SR (10.07),10,1
+31-May-24,09:00,AM,Social Sciences SR (10.10),10,1
+31-May-24,09:00,AM,Textiles Computer Cluster (G.34),3,1
+31-May-24,09:00,AM,The Edge (Sports Hall 1),450,0
+31-May-24,09:00,AM,The Edge (Sports Hall 2),283,0
+31-May-24,14:00,PM,Chemistry West Block SR (1.80),10,0
+31-May-24,14:00,PM,Chemistry West Block SR (G.75),10,1
+31-May-24,14:00,PM,Conference Gallery,30,0
+31-May-24,14:00,PM,EC Stoner SR (7.70),8,1
+31-May-24,14:00,PM,EC Stoner SR (7.78),11,1
+31-May-24,14:00,PM,EC Stoner SR (7.79),10,1
+31-May-24,14:00,PM,Emmanuel Centre SR 01,1,1
+31-May-24,14:00,PM,Emmanuel Centre SR 02,1,1
+31-May-24,14:00,PM,Emmanuel Centre SR 10,5,1
+31-May-24,14:00,PM,Emmanuel Centre SR 11,7,1
+31-May-24,14:00,PM,English SR 3 (LG.01) House 10 Cavendish Road,4,1
+31-May-24,14:00,PM,Great Hall,119,0
+31-May-24,14:00,PM,Irene Manton North Cluster (7.96),2,0
+31-May-24,14:00,PM,Irene Manton South Cluster (7.90),2,0
+31-May-24,14:00,PM,Martin Thomas Translation Lab 1 (1.30),7,0
+31-May-24,14:00,PM,Martin Thomas Translation Lab 2 (1.30a),6,0
+31-May-24,14:00,PM,Michael Sadler SR (1.19),1,1
+31-May-24,14:00,PM,Michael Sadler SR (1.37),1,1
+31-May-24,14:00,PM,Michael Sadler SR (2.01),1,1
+31-May-24,14:00,PM,Michael Sadler SR (B.37),5,1
+31-May-24,14:00,PM,Michael Sadler SR (B.49),2,1
+31-May-24,14:00,PM,Michael Sadler SR (LG.15),2,0
+31-May-24,14:00,PM,Michael Sadler World Cinema Rm (B.36),5,1
+31-May-24,14:00,PM,Psychology Cluster (1.43),7,0
+31-May-24,14:00,PM,Psychology Cluster (1.45),10,0
+31-May-24,14:00,PM,Social Sciences SR (10.05),9,1
+31-May-24,14:00,PM,Social Sciences SR (10.10),4,1
+31-May-24,14:00,PM,Social Sciences SR (12.38),6,1
+31-May-24,14:00,PM,Textiles Computer Cluster (G.34),3,1
+31-May-24,14:00,PM,The Edge (Sports Hall 1),532,0
+31-May-24,14:00,PM,The Edge (Sports Hall 2),291,0
+03-Jun-24,09:00,AM,Chemistry West Block SR (1.65),8,1
+03-Jun-24,09:00,AM,Cohen Computer Cluster A&B (1.40),93,0
+03-Jun-24,09:00,AM,EC Stoner Cluster (6.68),43,0
+03-Jun-24,09:00,AM,EC Stoner SR (7.70),13,1
+03-Jun-24,09:00,AM,EC Stoner SR (7.78),15,1
+03-Jun-24,09:00,AM,Emmanuel Centre SR 01,1,1
+03-Jun-24,09:00,AM,Emmanuel Centre SR 02,1,1
+03-Jun-24,09:00,AM,Emmanuel Centre SR 03,1,1
+03-Jun-24,09:00,AM,Emmanuel Centre SR 10,7,1
+03-Jun-24,09:00,AM,English SR 1 (LG.04) House 10 Cavendish Road,5,1
+03-Jun-24,09:00,AM,English SR 3 (LG.01) House 10 Cavendish Road,4,1
+03-Jun-24,09:00,AM,English SR 7 (LG.05) House 5 Cavendish Road,3,1
+03-Jun-24,09:00,AM,Fourman O and P Cluster (8.49),90,0
+03-Jun-24,09:00,AM,Great Hall,147,0
+03-Jun-24,09:00,AM,Michael Sadler SR (1.19),1,1
+03-Jun-24,09:00,AM,Michael Sadler SR (B.49),3,1
+03-Jun-24,09:00,AM,Michael Sadler SR (LG.10),49,0
+03-Jun-24,09:00,AM,Michael Sadler SR (LG.15),18,0
+03-Jun-24,09:00,AM,Psychology Cluster (1.43),8,0
+03-Jun-24,09:00,AM,Psychology Cluster (1.45),27,0
+03-Jun-24,09:00,AM,Room UG09 (Great Hall Building),84,0
+03-Jun-24,09:00,AM,Social Sciences SR (10.05),11,1
+03-Jun-24,09:00,AM,Social Sciences SR (10.10),9,1
+03-Jun-24,09:00,AM,Social Sciences SR (12.38),13,1
+03-Jun-24,09:00,AM,Textiles Computer Cluster (G.34),6,1
+03-Jun-24,09:00,AM,The Edge (Sports Hall 1),529,0
+03-Jun-24,09:00,AM,The Edge (Sports Hall 2),283,0
+03-Jun-24,10:00,AM,Emmanuel Centre SR 04,1,1
+03-Jun-24,10:00,AM,English SR 3 (LG.01) House 10 Cavendish Road,1,1
+03-Jun-24,10:00,AM,Psychology Cluster (1.45),1,0
+03-Jun-24,14:00,PM,Chemistry West Block SR (1.65),8,1
+03-Jun-24,14:00,PM,Chemistry West Block SR (G.75),7,1
+03-Jun-24,14:00,PM,Cohen Computer Cluster A&B (1.40),74,0
+03-Jun-24,14:00,PM,EC Stoner Cluster (6.61),36,0
+03-Jun-24,14:00,PM,EC Stoner Cluster (6.68),1,0
+03-Jun-24,14:00,PM,Emmanuel Centre SR 01,1,1
+03-Jun-24,14:00,PM,Emmanuel Centre SR 03,1,1
+03-Jun-24,14:00,PM,Emmanuel Centre SR 04,1,1
+03-Jun-24,14:00,PM,Emmanuel Centre SR 10,6,1
+03-Jun-24,14:00,PM,English SR 2 (LG.06) House 10 Cavendish Road,5,1
+03-Jun-24,14:00,PM,Great Hall,141,0
+03-Jun-24,14:00,PM,Irene Manton North Cluster (7.96),9,0
+03-Jun-24,14:00,PM,Irene Manton South Cluster (7.90),4,0
+03-Jun-24,14:00,PM,Michael Sadler SR (1.19),1,1
+03-Jun-24,14:00,PM,Michael Sadler SR (1.37),1,1
+03-Jun-24,14:00,PM,Michael Sadler SR (2.01),1,1
+03-Jun-24,14:00,PM,Michael Sadler SR (B.37),7,1
+03-Jun-24,14:00,PM,Michael Sadler SR (B.49),3,1
+03-Jun-24,14:00,PM,Michael Sadler SR (LG.10),74,0
+03-Jun-24,14:00,PM,Michael Sadler SR (LG.15),41,0
+03-Jun-24,14:00,PM,Michael Sadler World Cinema Rm (B.36),8,1
+03-Jun-24,14:00,PM,Newlyn SR (GR.01),51,0
+03-Jun-24,14:00,PM,Newlyn SR (GR.07),45,0
+03-Jun-24,14:00,PM,Parkinson SR (B.08),28,0
+03-Jun-24,14:00,PM,Parkinson SR (B.09),16,0
+03-Jun-24,14:00,PM,Psychology Cluster (1.43),6,0
+03-Jun-24,14:00,PM,Psychology Cluster (1.45),24,0
+03-Jun-24,14:00,PM,Room UG09 (Great Hall Building),74,0
+03-Jun-24,14:00,PM,Social Sciences SR (10.05),10,1
+03-Jun-24,14:00,PM,Social Sciences SR (10.06),9,1
+03-Jun-24,14:00,PM,Social Sciences SR (10.07),11,1
+03-Jun-24,14:00,PM,Social Sciences SR (12.38),12,1
+03-Jun-24,14:00,PM,Textiles Computer Cluster (G.34),4,1
+03-Jun-24,14:00,PM,The Edge (Sports Hall 1),447,0
+03-Jun-24,14:00,PM,The Edge (Sports Hall 2),242,0
+04-Jun-24,09:00,AM,Cohen Computer Cluster A&B (1.40),72,0
+04-Jun-24,09:00,AM,EC Stoner Cluster (6.61),37,0
+04-Jun-24,09:00,AM,EC Stoner SR (7.70),15,1
+04-Jun-24,09:00,AM,English SR 2 (LG.06) House 10 Cavendish Road,4,1
+04-Jun-24,09:00,AM,English SR 3 (LG.01) House 10 Cavendish Road,5,1
+04-Jun-24,09:00,AM,English SR 4 (LG.02) House 10 Cavendish Road,4,1
+04-Jun-24,09:00,AM,English SR 7 (LG.05) House 5 Cavendish Road,4,1
+04-Jun-24,09:00,AM,Great Hall,152,0
+04-Jun-24,09:00,AM,Michael Sadler SR (1.19),1,1
+04-Jun-24,09:00,AM,Psychology Cluster (1.43),19,0
+04-Jun-24,09:00,AM,Room UG09 (Great Hall Building),63,0
+04-Jun-24,09:00,AM,Social Sciences SR (10.06),7,1
+04-Jun-24,09:00,AM,Social Sciences SR (10.07),7,1
+04-Jun-24,09:00,AM,Textiles Computer Cluster (G.34),6,1
+04-Jun-24,09:00,AM,The Edge (Sports Hall 1),456,0
+04-Jun-24,09:00,AM,The Edge (Sports Hall 2),265,0
+04-Jun-24,10:00,AM,English SR 4 (LG.02) House 10 Cavendish Road,1,1
+04-Jun-24,14:00,PM,Chemical and Process Engineering Cluster (GR.06),75,0
+04-Jun-24,14:00,PM,Chemistry Cluster (1.44),13,0
+04-Jun-24,14:00,PM,Chemistry Cluster (1.44a),1,1
+04-Jun-24,14:00,PM,Cohen Computer Cluster A&B (1.40),93,0
+04-Jun-24,14:00,PM,EC Stoner Cluster (6.61),1,0
+04-Jun-24,14:00,PM,EC Stoner Cluster (6.68),1,0
+04-Jun-24,14:00,PM,EC Stoner SR (7.70),13,1
+04-Jun-24,14:00,PM,Fourman O and P Cluster (8.49),89,0
+04-Jun-24,14:00,PM,Irene Manton North Cluster (7.96),27,0
+04-Jun-24,14:00,PM,Irene Manton South Cluster (7.90),1,0
+04-Jun-24,14:00,PM,Michael Sadler SR (1.37),1,1
+04-Jun-24,14:00,PM,Michael Sadler SR (B.49),4,1
+04-Jun-24,14:00,PM,Michael Sadler SR (LG.10),26,0
+04-Jun-24,14:00,PM,Michael Sadler SR (LG.15),19,0
+04-Jun-24,14:00,PM,Michael Sadler World Cinema Rm (B.36),7,1
+04-Jun-24,14:00,PM,Psychology Cluster (1.43),7,0
+04-Jun-24,14:00,PM,Psychology Cluster (1.45),28,0
+04-Jun-24,14:00,PM,Social Sciences SR (10.05),8,1
+04-Jun-24,14:00,PM,Social Sciences SR (10.06),9,1
+04-Jun-24,14:00,PM,Social Sciences SR (10.10),7,1
+04-Jun-24,14:00,PM,Textiles Computer Cluster (G.34),6,1
+04-Jun-24,14:00,PM,The Edge (Sports Hall 1),527,0
+04-Jun-24,14:00,PM,West Teaching Lab Lower Cluster (B.16),1,1
+05-Jun-24,09:00,AM,Chemistry West Block SR (1.65),7,1
+05-Jun-24,09:00,AM,Cohen Computer Cluster A&B (1.40),89,0
+05-Jun-24,09:00,AM,EC Stoner Cluster (6.61),22,0
+05-Jun-24,09:00,AM,English SR 1 (LG.04) House 10 Cavendish Road,6,1
+05-Jun-24,09:00,AM,English SR 7 (LG.05) House 5 Cavendish Road,4,1
+05-Jun-24,09:00,AM,Fourman O and P Cluster (8.49),72,0
+05-Jun-24,09:00,AM,Great Hall,160,0
+05-Jun-24,09:00,AM,Irene Manton North Cluster (7.96),8,0
+05-Jun-24,09:00,AM,Irene Manton South Cluster (7.90),10,0
+05-Jun-24,09:00,AM,Michael Sadler SR (1.19),1,1
+05-Jun-24,09:00,AM,Michael Sadler SR (1.37),1,1
+05-Jun-24,09:00,AM,Michael Sadler SR (LG.15),28,0
+05-Jun-24,09:00,AM,Michael Sadler World Cinema Rm (B.36),8,1
+05-Jun-24,09:00,AM,Psychology Cluster (1.43),6,0
+05-Jun-24,09:00,AM,Psychology Cluster (1.45),13,0
+05-Jun-24,09:00,AM,Room UG09 (Great Hall Building),85,0
+05-Jun-24,09:00,AM,Social Sciences SR (10.05),7,1
+05-Jun-24,09:00,AM,Social Sciences SR (10.06),7,1
+05-Jun-24,09:00,AM,Social Sciences SR (10.07),10,1
+05-Jun-24,09:00,AM,Social Sciences SR (10.10),9,1
+05-Jun-24,09:00,AM,Social Sciences SR (12.38),11,1
+05-Jun-24,09:00,AM,Textiles Computer Cluster (G.34),4,1
+05-Jun-24,09:00,AM,The Edge (Sports Hall 1),510,0
+05-Jun-24,09:00,AM,The Edge (Sports Hall 2),223,0
+05-Jun-24,10:00,AM,Emmanuel Centre SR 01,1,1
+05-Jun-24,10:00,AM,Irene Manton North Cluster (7.96),1,0
+05-Jun-24,14:00,PM,EC Stoner SR (7.79),16,1
+05-Jun-24,14:00,PM,Emmanuel Centre SR 01,1,1
+05-Jun-24,14:00,PM,Emmanuel Centre SR 02,1,1
+05-Jun-24,14:00,PM,Emmanuel Centre SR 03,1,1
+05-Jun-24,14:00,PM,English SR 1 (LG.04) House 10 Cavendish Road,6,1
+05-Jun-24,14:00,PM,English SR 3 (LG.01) House 10 Cavendish Road,5,1
+05-Jun-24,14:00,PM,Michael Sadler SR (B.37),5,1
+05-Jun-24,14:00,PM,Michael Sadler SR (B.49),3,1
+05-Jun-24,14:00,PM,Psychology Cluster (1.43),7,0
+05-Jun-24,14:00,PM,Room UG09 (Great Hall Building),75,0
+05-Jun-24,14:00,PM,Textiles Computer Cluster (G.34),2,1
+05-Jun-24,14:00,PM,The Edge (Sports Hall 1),376,0
+06-Jun-24,09:00,AM,Chemistry West Block SR (G.75),6,1
+06-Jun-24,09:00,AM,EC Stoner SR (7.79),24,1
+06-Jun-24,09:00,AM,Emmanuel Centre SR 04,1,1
+06-Jun-24,09:00,AM,English SR 2 (LG.06) House 10 Cavendish Road,3,1
+06-Jun-24,09:00,AM,Great Hall,155,0
+06-Jun-24,09:00,AM,Michael Sadler SR (1.19),1,1
+06-Jun-24,09:00,AM,Michael Sadler SR (1.37),1,1
+06-Jun-24,09:00,AM,Michael Sadler SR (LG.10),74,0
+06-Jun-24,09:00,AM,Michael Sadler World Cinema Rm (B.36),6,1
+06-Jun-24,09:00,AM,Newlyn SR (1.01),69,0
+06-Jun-24,09:00,AM,Newlyn SR (1.07),54,0
+06-Jun-24,09:00,AM,Newlyn SR (GR.01),69,0
+06-Jun-24,09:00,AM,Newlyn SR (GR.07),69,0
+06-Jun-24,09:00,AM,Parkinson SR (B.08),18,0
+06-Jun-24,09:00,AM,Parkinson SR (B.09),14,0
+06-Jun-24,09:00,AM,Psychology Cluster (1.43),5,0
+06-Jun-24,09:00,AM,Psychology Cluster (1.45),9,0
+06-Jun-24,09:00,AM,Room UG09 (Great Hall Building),94,0
+06-Jun-24,09:00,AM,Social Sciences SR (10.05),5,1
+06-Jun-24,09:00,AM,Social Sciences SR (10.10),7,1
+06-Jun-24,10:00,AM,Emmanuel Centre SR 01,1,1
+07-Jun-24,09:00,AM,Chemical and Process Engineering Cluster (GR.06),75,0
+07-Jun-24,09:00,AM,Cohen Computer Cluster A&B (1.40),93,0
+07-Jun-24,09:00,AM,EC Stoner Cluster (6.61),21,0
+07-Jun-24,09:00,AM,EC Stoner Cluster (6.68),1,0
+07-Jun-24,09:00,AM,Emmanuel Centre SR 02,1,1
+07-Jun-24,09:00,AM,Fourman O and P Cluster (8.49),77,0
+07-Jun-24,09:00,AM,Great Hall,156,0
+07-Jun-24,09:00,AM,Irene Manton North Cluster (7.96),4,0
+07-Jun-24,09:00,AM,Parkinson SR (B.08),15,0
+07-Jun-24,09:00,AM,Psychology Cluster (1.43),7,0
+07-Jun-24,09:00,AM,Psychology Cluster (1.45),17,0
+07-Jun-24,09:00,AM,Social Sciences SR (10.05),5,1
+07-Jun-24,09:00,AM,Social Sciences SR (10.06),9,1
+07-Jun-24,09:00,AM,Textiles Computer Cluster (G.34),5,1
+07-Jun-24,10:00,AM,Psychology Cluster (1.45),3,0
+07-Jun-24,14:00,PM,Chemical and Process Engineering Cluster (GR.06),75,0
+07-Jun-24,14:00,PM,Cohen Computer Cluster A&B (1.40),93,0
+07-Jun-24,14:00,PM,Fourman O and P Cluster (8.49),77,0
+07-Jun-24,14:00,PM,Psychology Cluster (1.43),21,0
+07-Jun-24,14:00,PM,Psychology Cluster (1.45),1,0
+07-Jun-24,14:00,PM,Textiles Computer Cluster (G.34),7,1
